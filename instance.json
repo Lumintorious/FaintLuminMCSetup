@@ -21995,13 +21995,220 @@
           "fileFingerprint": 3693290643,
           "modId": 605439
         }
+      },
+      {
+        "name": "Time Control",
+        "version": "timecontrol-1.19.2-1.1.3.1.jar",
+        "optional": true,
+        "file": "timecontrol-1.19.2-1.1.3.1.jar",
+        "type": "mods",
+        "description": "Want longer or shorter in-game days/nights? So did I.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 303570,
+        "curseForgeFileId": 4559411,
+        "curseForgeProject": {
+          "id": 303570,
+          "name": "Time Control",
+          "authors": [
+            {
+              "id": 24552387,
+              "name": "Unixkitty",
+              "url": "https://www.curseforge.com/members/24552387-unixkitty?username=unixkitty"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Want longer or shorter in-game days/nights? So did I.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "time-control",
+          "isFeatured": false,
+          "dateModified": "2023-07-03T14:02:49.737Z",
+          "dateCreated": "2018-09-24T10:02:06.25Z",
+          "dateReleased": "2023-07-03T14:02:06.203Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/time-control",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Unixkitty/timecontrol/issues",
+            "sourceUrl": "https://github.com/Unixkitty/timecontrol"
+          },
+          "logo": {
+            "id": 420958,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/420/958/256/256/637647969792525987.png",
+            "title": "637647969792525987.png",
+            "url": "https://media.forgecdn.net/avatars/420/958/637647969792525987.png",
+            "modId": 303570
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4622914
+        },
+        "curseForgeFile": {
+          "id": 4559411,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "timecontrol-1.19.2-1.1.3.1.jar",
+          "fileName": "timecontrol-1.19.2-1.1.3.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-05-30T17:35:36.87Z",
+          "fileLength": 133740,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3201683198,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1328546005,
+              "name": "com"
+            },
+            {
+              "fingerprint": 928732976,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3676200786,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 129842567,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "da7fdc1066a3ae330225ddbb35d52d1d3fe5631f",
+              "algo": 1
+            },
+            {
+              "value": "b536afac2fa7ee46c1bbce2ffdf0dfc6",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
+              "gameVersionName": "1.19.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.4",
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 880349211,
+          "modId": 303570
+        },
+        "modrinthProject": {
+          "id": "Mksh0eV4",
+          "slug": "time-control",
+          "project_type": "mod",
+          "team": "WmfH8tYg",
+          "title": "Time Control",
+          "description": "Want longer or shorter in-game days/nights? So did I.",
+          "body": "![](http://cf.way2muchnoise.eu/versions/303570.svg)\n\n[![](http://cf.way2muchnoise.eu/title/303570.svg)](https://www.curseforge.com/minecraft/mc-mods/time-control)\n[![](https://static.unixkitty.com/icons/modrinth_long_color_24.svg)](https://modrinth.com/mod/time-control)\n[![](https://static.unixkitty.com/icons/discord_long_color_24.svg)](https://discord.unixkitty.com)\n\nSince 1.20.1 there is also a version for **Fabric**!\n\nControl Minecraft’s day-night cycle using a simple config file, choosing either:\n\n- Set length for day and night in minutes (can be configured independently)\n- Or sync in-game time with system clock\n\nNo base classes are modified, no ASM/mixin transformations (on the Forge version) and no touching tick lengths.\n\nFor years when playing the game I couldn't stand vanilla day length.\n\nNo other mod that tried to implement a similar feature satisfied me, either due to breaking other mods or having unnecessary features.\n\nThis is my simplistic, non-invasive implementation that relies on the vanilla \"doDaylightCycle\" gamerule being off.\nThe mod will set it to false on it's own during world startup.\n\n/time command works, sleeping works (sleep should be mostly handled by vanilla)\n\nThere is also compatibility with Comforts and Vampirism's day sleeping\n\n![](https://static.unixkitty.com/demo/timecontrol/live_change.gif)\n![](https://static.unixkitty.com/demo/timecontrol/separate_values.gif)\n\n### Configuration\n\n#### File:\n\nStarting with **1.20.1** on **Forge** configuration is saved per-world (serverside config):\n\n`.minecraft/saves/{world}/serverconfig/timecontrol-server.toml`\n\nOn **Fabric** **1.20.1**+:\n\n`.minecraft/config/timecontrol.json`\n\nIf you're using **Forge**, on Minecraft versions up to and including **1.19.4** you can find it at:\n\n`.minecraft/config/timecontrol-common.toml`\n\n```toml\n[system_time]\n\t#Synchronize game world time with system time\n\tsync_to_system_time = true\n\t#Sync time every n ticks\n\t#Range: 1 ~ 864000\n\tsync_to_system_time_rate = 20\n\n[arbitrary_time]\n\t#How long daytime lasts (0 - 12000)\n\t#Range: 1 ~ 178956\n\tday_length_minutes = 30\n\t#How long nighttime lasts (12000 - 24000)\n\t#Range: 1 ~ 178956\n\tnight_length_minutes = 25\n\n[miscellaneous]\n\tdebug = true\n```\n\nThe Fabric version json does not have comments, so you can refer to the above example.\n\n#### Commands:\n\nThere is also an in-game command:\n\nIn 1.20+\n\n```\n/timecontrol day_length_minutes [<value>]\n/timecontrol night_length_minutes [<value>]\n/timecontrol sync_to_system_time_rate [<value>]\n/timecontrol sync_to_system_time [<value>]\n```\n\nUp to 1.19.4:\n\n```\n/timecontrol get < sync_to_system_time | night_length_minutes | day_length_minutes >\n/timecontrol set < night_length_minutes | day_length_minutes > <value>\n```\n\n___\n\nAt this time it works with both multiplayer and singleplayer (must be installed on both), but on Dedicated Servers due to possible ping and ticks per second discrepancies slight skybox jitter may be noticeable.\n\n#### FAQ\n\n**Q**: Forge?\n\n**A**: Forge, and since 1.20.1 - Fabric.\n\n**Q**: Can I include your mod in a video?\n\n**A**: As long as you include a link to the mod/modpack (if it happens to be in one), absolutely\n\n**Q**: Can I add your mod to a modpack?\n\n**A**: CurseForge/Modrinth modpacks are cool.\n\n#### P.S.\n\nIf you don't feel confident enough about my mod and may have also become distrustful of all the previously existing mods attempting to give control to daylight cycle length:\n\nI've been using it myself since 1.12.2, always in heavily modded packs (200+ mods), (usually) on a multiplayer server. This should be a vanilla feature in my opinion.\n\nThe mod also doesn't have any permanent effects on the game or save, so if you install/remove it without worry.",
+          "published": "2021-08-22T16:40:16.380487Z",
+          "updated": "2023-07-03T14:02:38.936739Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Mksh0eV4/icon.png",
+          "issues_url": "https://github.com/Unixkitty/timecontrol/issues",
+          "source_url": "https://github.com/Unixkitty/timecontrol",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "kBw0UMLs",
+          "project_id": "Mksh0eV4",
+          "author_id": "AGPtn4g6",
+          "name": "1.1.3.1",
+          "version_number": "1.1.3.1",
+          "changelog": "Fixed incorrectly detecting config changes, thus breaking long cycle lengths",
+          "date_published": "2023-05-30T17:36:43.848555Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "094182684824f676c2db15ac301afdea8805cf7ce5fe492b0b0496904cc7584324e63d1a1e3fff7884cdc7ca0f8a224037e1593b560679c98106132592dd6cf5",
+                "sha1": "da7fdc1066a3ae330225ddbb35d52d1d3fe5631f"
+              },
+              "url": "https://cdn.modrinth.com/data/Mksh0eV4/versions/kBw0UMLs/timecontrol-1.19.2-1.1.3.1.jar",
+              "filename": "timecontrol-1.19.2-1.1.3.1.jar",
+              "primary": true,
+              "size": 133740
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.19.2",
+            "1.19.4"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1703016144344,
-    "numPlays": 27,
+    "lastPlayed": 1703023618667,
+    "numPlays": 31,
     "lastExportName": "MC with Faint",
     "lastExportVersion": "1.19.2",
     "lastExportAuthor": "Lumintorious",
