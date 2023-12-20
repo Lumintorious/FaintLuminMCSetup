@@ -1,0 +1,16 @@
+#Highest achievable proficiency level.
+#Range: 1 ~ 1000
+maxProficiencyLevel = 30
+#How much resources are multiplied at level 1. The other levels are not affected by this only as a base.
+#Range: 0.10000000149011612 ~ 10.0
+extraResourcesAtBaseMultiplier = 1.0
+#Experience required for the first level-up. The other levels scale off of this one.
+#Range: 0.10000000149011612 ~ 10.0
+baseExperienceMultiplier = 1.0
+#The extra multiplier for resources you get at your proficiency level is multiplied by this. The higher this value, the more resources higher levels yield. The base multiplier is unaffected.
+#Range: 0.10000000149011612 ~ 10.0
+extraResourcesPerLevelMultiplier = 1.0
+#The extra experience required each new level is multiplied by this. The higher this value, the more experience higher levels will gain at an increased rate. The base multiplier is unaffected.
+#Range: 0.10000000149011612 ~ 10.0
+experiencePerLevelMultiplier = 1.0
+
