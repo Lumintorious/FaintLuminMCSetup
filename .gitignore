@@ -31,3 +31,6 @@ config/sound_physics_remastered
 world
 world_backups
 libraries
+.qmenu_opened.marker
+instance.json
+usercache.json
