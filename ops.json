@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "9bf47253-f56e-4394-8383-a19c065e05c8",
+    "name": "Lumintorious",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a0ce5aa9-a077-47a3-b677-455ea6153fcb",
+    "name": "Faintfulness",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
