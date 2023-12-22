@@ -23178,13 +23178,756 @@
           "fileFingerprint": 2241045508,
           "modId": 231484
         }
+      },
+      {
+        "name": "ConnectedTexturesMod",
+        "version": "CTM - 1.19.2-1.1.6+8",
+        "optional": true,
+        "file": "CTM-1.19.2-1.1.6+8.jar",
+        "type": "mods",
+        "description": "A resource pack extension library",
+        "disabled": true,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 267602,
+        "curseForgeFileId": 4393695,
+        "curseForgeProject": {
+          "id": 267602,
+          "name": "ConnectedTexturesMod",
+          "authors": [
+            {
+              "id": 10932610,
+              "name": "tterrag1098",
+              "url": "https://www.curseforge.com/members/10932610-tterrag1098?username=tterrag1098"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A resource pack extension library",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "ctm",
+          "isFeatured": false,
+          "dateModified": "2023-02-17T02:35:01.117Z",
+          "dateCreated": "2017-05-15T02:17:43.41Z",
+          "dateReleased": "2023-02-12T20:44:13.983Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ctm",
+            "wikiUrl": "https://github.com/Chisel-Team/ConnectedTexturesMod/wiki",
+            "issuesUrl": "https://github.com/Chisel-Team/ConnectedTexturesMod/issues",
+            "sourceUrl": "https://github.com/Chisel-Team/ConnectedTexturesMod"
+          },
+          "logo": {
+            "id": 102452,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/102/452/256/256/636330854499701192.png",
+            "title": "636330854499701192.png",
+            "url": "https://media.forgecdn.net/avatars/102/452/636330854499701192.png",
+            "modId": 267602
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 2915363
+        },
+        "curseForgeFile": {
+          "id": 4393695,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "CTM - 1.19.2-1.1.6+8",
+          "fileName": "CTM-1.19.2-1.1.6+8.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2023-02-12T20:44:13.983Z",
+          "fileLength": 194727,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3390585128,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2189418175,
+              "name": "team"
+            },
+            {
+              "fingerprint": 2904194323,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "50e8eb2e6266dcdebb4e60dbc26f526ed06e636c",
+              "algo": 1
+            },
+            {
+              "value": "ab8156e2a8510422a1f740f214a34058",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 2799117405,
+          "modId": 267602
+        }
+      },
+      {
+        "name": "Chipped",
+        "version": "chipped-forge-1.19.2-2.1.5.jar",
+        "optional": true,
+        "file": "chipped-forge-1.19.2-2.1.5.jar",
+        "type": "mods",
+        "description": "Every block deserves a friend.",
+        "disabled": true,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 456956,
+        "curseForgeFileId": 4558849,
+        "curseForgeProject": {
+          "id": 456956,
+          "name": "Chipped",
+          "authors": [
+            {
+              "id": 103112623,
+              "name": "terrariumearth",
+              "url": "https://www.curseforge.com/members/103112623-terrariumearth?username=terrariumearth"
+            },
+            {
+              "id": 101886028,
+              "name": "grimbop",
+              "url": "https://www.curseforge.com/members/101886028-grimbop?username=grimbop"
+            },
+            {
+              "id": 101827342,
+              "name": "kekie6",
+              "url": "https://www.curseforge.com/members/101827342-kekie6?username=kekie6"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Every block deserves a friend.",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "chipped",
+          "isFeatured": false,
+          "dateModified": "2023-07-10T10:28:26.383Z",
+          "dateCreated": "2021-03-14T19:26:45.457Z",
+          "dateReleased": "2023-07-10T08:03:14.893Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/chipped",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/terrarium-earth/Chipped/issues",
+            "sourceUrl": "https://github.com/CookieCNetwork/Chipped"
+          },
+          "logo": {
+            "id": 495254,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/495/254/256/256/637808243655328652_animated.gif",
+            "title": "637808243655328652.gif",
+            "url": "https://media.forgecdn.net/avatars/495/254/637808243655328652.gif",
+            "modId": 456956
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 363962,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/363/962/310/172/some-others.png",
+              "title": "other blocks!",
+              "url": "https://media.forgecdn.net/attachments/363/962/some-others.png",
+              "modId": 456956
+            },
+            {
+              "id": 363955,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/363/955/310/172/looming-table.png",
+              "title": "Loomer's Workbench",
+              "url": "https://media.forgecdn.net/attachments/363/955/looming-table.png",
+              "modId": 456956
+            },
+            {
+              "id": 363953,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/363/953/310/172/botanists-workbench.png",
+              "title": "Botanist's Workbench",
+              "url": "https://media.forgecdn.net/attachments/363/953/botanists-workbench.png",
+              "modId": 456956
+            },
+            {
+              "id": 363961,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/363/961/310/172/many-blocc.png",
+              "title": "various blocks :D ",
+              "url": "https://media.forgecdn.net/attachments/363/961/many-blocc.png",
+              "modId": 456956
+            },
+            {
+              "id": 363960,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/363/960/310/172/wood-planks.png",
+              "title": "wood planks <3",
+              "url": "https://media.forgecdn.net/attachments/363/960/wood-planks.png",
+              "modId": 456956
+            },
+            {
+              "id": 363954,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/363/954/310/172/carpenters-table.png",
+              "title": "Carpenter's Workbench",
+              "url": "https://media.forgecdn.net/attachments/363/954/carpenters-table.png",
+              "modId": 456956
+            },
+            {
+              "id": 363952,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/363/952/310/172/glassblowers-workbench.png",
+              "title": "Glassblower's Workbench",
+              "url": "https://media.forgecdn.net/attachments/363/952/glassblowers-workbench.png",
+              "modId": 456956
+            },
+            {
+              "id": 363959,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/363/959/310/172/unknown.png",
+              "title": "stained glass!",
+              "url": "https://media.forgecdn.net/attachments/363/959/unknown.png",
+              "modId": 456956
+            },
+            {
+              "id": 363956,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/363/956/310/172/masons-cuttingtable.png",
+              "title": "Stonecutter's Workbench",
+              "url": "https://media.forgecdn.net/attachments/363/956/masons-cuttingtable.png",
+              "modId": 456956
+            }
+          ],
+          "mainFileId": 4634858
+        },
+        "curseForgeFile": {
+          "id": 4558849,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "chipped-forge-1.19.2-2.1.5.jar",
+          "fileName": "chipped-forge-1.19.2-2.1.5.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-05-30T09:40:50.543Z",
+          "fileLength": 17313751,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 267602,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 570073,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1258787412,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2145118639,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 2374752777,
+              "name": "chipped.mixins.json"
+            },
+            {
+              "fingerprint": 724057970,
+              "name": "chipped-common-refmap.json"
+            },
+            {
+              "fingerprint": 350337276,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2414968027,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2419232368,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 141941706,
+              "name": "earth"
+            },
+            {
+              "fingerprint": 2948217255,
+              "name": "architectury_inject_Chipped_common_de5da0c1966e4f7e8be47e0187dc7274_894bbd5b149f8ad603f7b1c85cfafab1de379d5750d6e42de02cdb1e6ba178fcchipped215devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "37057307dc86d135c3d4a9caf430036949a8e0e0",
+              "algo": 1
+            },
+            {
+              "value": "4152fde1d156b2c05c42ad21ec39a2a3",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 2714249248,
+          "modId": 456956
+        },
+        "modrinthProject": {
+          "id": "BAscRYKm",
+          "slug": "chipped",
+          "project_type": "mod",
+          "team": "OaKmCYvu",
+          "title": "Chipped",
+          "description": "Every block deserves a friend.",
+          "body": "<center>\n\n![Chipped](https://cdn.discordapp.com/attachments/721407493351407646/1045075488554623058/chipped_2_logo.png)\n\n[![Requires Resourceful Lib](https://cdn.discordapp.com/attachments/1073717602880327761/1073717942014972034/RLib_vector.svg)](http://modrinth.com/mod/resourceful-lib)\n[![Requires Athena](https://cdn.discordapp.com/attachments/1007383133294956627/1110018632496468018/Requires_Athena_vector.svg)](http://modrinth.com/mod/athena-ctm)\n[![Made by Terrarium](https://cdn.discordapp.com/attachments/1073717602880327761/1073718144910233691/Terrarium_vector.svg)](https://discord.terrarium.earth)\n<hr>\n</center>\n\n![Description 1](https://cdn.discordapp.com/attachments/721407493351407646/1045078704159723641/chipped_2_description.png)\n![Description 2\"](https://cdn.discordapp.com/attachments/721407493351407646/1046734680914931753/chipped_2_description2.png)\n![Description 3\"](https://cdn.discordapp.com/attachments/721407493351407646/1046734689186099200/chipped_2_description3.png)\n![(Description 4\"](https://cdn.discordapp.com/attachments/721407493351407646/1046734703891329094/chipped_2_description4.png)\n\n![Credits](https://cdn.discordapp.com/attachments/721407493351407646/1045078703845167104/chipped_2_credits.png)\n#### Programmers:\nGrim, Alex Nijjar, MsRandom1, CodexAdrian, ThatGravyBoat\n#### Artists:\nKekie6, Marc-IceBlade, Shrimp, Facu, Frogipher, SunsetSoup, Valilla, Brother Earth, Joosh, ArtistMonster, Zilver\n\n<center>\n<hr>\n\n[![Use code \"Terrarium\" for 25% off at BisectHosting](https://cdn.discordapp.com/attachments/1073717602880327761/1094750562794348585/BisectHosting_Banner_vector.svg)](http://bisecthosting.com/terrarium)\n\n<hr>\n\n### Socials\n\n[![youtube-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-plural_vector.svg)](https://youtube.terrarium.earth)\n[![twitch-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitch-plural_vector.svg)](https://www.twitch.tv/terrariumearth)\n[![twitter-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitter-plural_vector.svg)](https://twitter.terrarium.earth)\n[![kofi-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/kofi-plural_vector.svg)](https://kofi.terrarium.earth)\n[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_vector.svg)](https://discord.terrarium.earth)\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/user/Terrarium)\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/members/terrariumearth/projects)\n---\n\n### Check Out our Other Projects\n<a href=\"https://www.modrinth.com/mod/handcrafted\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068327560368148/Handcrafted2x.svg\" alt=\"Handcrafted\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/chipped\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068326943801376/Chipped2x.svg\" alt=\"Chipped\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/ad-astra\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068326604066888/Ad_Astra2x.svg\" alt=\"Ad Astra\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/tempad\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329108058213/Tempad2x.svg\" alt=\"Tempad\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/colorful-azaleas\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068327237398668/Colorful_Azalaeas2x.svg\" alt=\"Colorful Azalaeas\" width=\"96\"></a>\n\n<a href=\"https://www.modrinth.com/mod/lil-wings\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328189509643/Lil_Wings2x.svg\" alt=\"Lil Wings\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/vitalize\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329426833508/vitalize2x.svg\" alt=\"Vitalize\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/spirit\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328793493574/Spirit2x.svg\" alt=\"Spirit\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/reaper\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328457941063/reaper2x.svg\" alt=\"Reaper\" width=\"96\"></a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/experience-obelisk\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329745596496/xp_obelisk2x.svg\" alt=\"Experience Obelisk\" width=\"96\"></a>\n</center>",
+          "published": "2022-05-26T17:34:49.719252Z",
+          "updated": "2023-07-10T08:03:19.008089Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/BAscRYKm/574857523e21b5c9f896601c26cb36e7e06bdcad.gif",
+          "issues_url": "https://github.com/terrarium-earth/Chipped/issues",
+          "source_url": "https://github.com/terrarium-earth/Chipped",
+          "discord_url": "https://discord.gg/terrarium",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/terrariumearth"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/BAscRYKm/images/e232bdc280c1468037cc8afdef3dc5d2fcd6caf5.png",
+              "featured": false,
+              "title": "Botanist's Workbench",
+              "created": "2022-11-15T09:04:52.439170Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BAscRYKm/images/cbbeeca232f2632aef4ac4856f80c2e7566a4461.png",
+              "featured": false,
+              "title": "Carpenter's Workbench",
+              "created": "2022-11-15T09:04:54.346059Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BAscRYKm/images/0a86f6312f70410803a2edf34febe8c74e262154.png",
+              "featured": false,
+              "title": "Glassblower's Workbench",
+              "created": "2022-11-15T09:04:51.452591Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BAscRYKm/images/ff735b12139402bb5c98f09185b21b1556595130.png",
+              "featured": false,
+              "title": "Mason's Workbench",
+              "created": "2022-11-15T09:04:55.440118Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BAscRYKm/images/36b389ae7062fd63c45d3b62f8fd0981585aeb1f.png",
+              "featured": false,
+              "title": "Philosopher's Workbench",
+              "created": "2022-11-15T09:04:56.340114Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BAscRYKm/images/6631a19fb1a57d94d1ce12d2036f2438c48d2961.png",
+              "featured": false,
+              "title": "Shepherd's Workbench",
+              "created": "2022-11-15T09:04:53.374839Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BAscRYKm/images/6a9995096b867096fbacf7b3272c5254dcbb43a3.png",
+              "featured": false,
+              "title": "Tinkerer's Workbench",
+              "created": "2022-11-15T09:04:57.339347Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "Do5hlMJ8",
+          "project_id": "BAscRYKm",
+          "author_id": "6ZoP9xY8",
+          "name": "2.1.5",
+          "version_number": "2.1.5",
+          "changelog": "- fixed big lanterns being uncrafteable\n- fixed the stiped bug\n- made the mechanist table recipe use any wood type instead of specifically requiring oak and spruce",
+          "date_published": "2023-05-30T09:40:49.070987Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "31bf7c10f159d8acc5a226b766114392dfa32a20013c4c53c07489033ce920a16efc8d4862ca6895a91c679d94bbc27bb55aebb841381f041179cdf780da5604",
+                "sha1": "37057307dc86d135c3d4a9caf430036949a8e0e0"
+              },
+              "url": "https://cdn.modrinth.com/data/BAscRYKm/versions/Do5hlMJ8/chipped-forge-1.19.2-2.1.5.jar",
+              "filename": "chipped-forge-1.19.2-2.1.5.jar",
+              "primary": true,
+              "size": 17313751
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "G1hIVOrD",
+              "dependency_type": "required"
+            },
+            {
+              "version_id": "hLxRuTeR",
+              "project_id": "nfn13YXA",
+              "dependency_type": "optional"
+            },
+            {
+              "version_id": "YWrLRDfT",
+              "project_id": "u6dRKJwZ",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.19.2"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Not Enough Recipe Book [NERB]",
+        "version": "Unknown",
+        "optional": true,
+        "file": "nerb-1.19.2-0.3-FORGE.jar",
+        "type": "mods",
+        "description": "Completely removes recipe book from the game, optimizing player data.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 738663,
+        "curseForgeFileId": 4744473,
+        "curseForgeProject": {
+          "id": 738663,
+          "name": "Not Enough Recipe Book [NERB]",
+          "authors": [
+            {
+              "id": 29763794,
+              "name": "SSKirillSS",
+              "url": "https://www.curseforge.com/members/29763794-sskirillss?username=sskirillss"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Completely removes recipe book from the game, optimizing player data.",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "notenoughrecipebook",
+          "isFeatured": false,
+          "dateModified": "2023-09-23T02:10:45.87Z",
+          "dateCreated": "2022-12-16T13:44:32.83Z",
+          "dateReleased": "2023-09-23T02:07:35.837Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook",
+            "wikiUrl": "",
+            "issuesUrl": "https://discord.gg/pHren9yxzW",
+            "sourceUrl": "https://github.com/SSKirillSS/nerb"
+          },
+          "logo": {
+            "id": 874685,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/874/685/256/256/638296140689427443_animated.gif",
+            "title": "638296140689427443.gif",
+            "url": "https://media.forgecdn.net/avatars/874/685/638296140689427443.gif",
+            "modId": 738663
+          },
+          "allowModDistribution": false,
+          "screenshots": [],
+          "mainFileId": 4764340
+        },
+        "curseForgeFile": {
+          "id": 4744473,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "nerb-1.19.2-0.3-FORGE.jar",
+          "fileName": "nerb-1.19.2-0.3-FORGE.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-09-08T23:35:43.36Z",
+          "fileLength": 10391,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3483357039,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2287880514,
+              "name": "nerb-common.mixins.json"
+            },
+            {
+              "fingerprint": 2220445962,
+              "name": "nerb-common-refmap.json"
+            },
+            {
+              "fingerprint": 76029629,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3080849877,
+              "name": "nerb.mixins.json"
+            },
+            {
+              "fingerprint": 3439500233,
+              "name": "it"
+            },
+            {
+              "fingerprint": 717552915,
+              "name": "architectury_inject_nerb_common_f8b9f96b43784f7fa0fbc0e71a4e75cb_fa791c0dda6d6abcaee701c3be1a626405b42129ef438ccd75b3322c985d69bdnerb119203devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "a9e64d7ccc0b2ad8f08764da22a59dc075269dbd",
+              "algo": 1
+            },
+            {
+              "value": "2d00d52bbacf44b2526dc151a31f3cf0",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 3424986663,
+          "modId": 738663
+        },
+        "modrinthProject": {
+          "id": "bQh7xzFq",
+          "slug": "nerb",
+          "project_type": "mod",
+          "team": "20Vhjk7o",
+          "title": "Not Enough Recipe Book [NERB]",
+          "description": "Completely removes recipe book from the game, optimizing player data.",
+          "body": "This mod was created for only one simple purpose - completely remove recipe book from the game. However, unlike other similar mods, this one does not just hide the recipe book button. NERB completely removes its functionality.\n\n \n\nIf you have a fully unlocked recipe book in a large modpack and run the command /data get entity @s, you will see how horrible the amount of data it gives (most of them are recipe names). However, after installing this mod, these recipe names will disappear, which greatly improves the performance of CraftTweaker / KubeJS (e.g. using event.player.data in event scripts) or other mods to read player data, and speeds up data sync between the server and the client & makes player join world faster.\n\nThis mod should be installed both on client- and server-side!",
+          "published": "2023-09-07T10:32:20.545713Z",
+          "updated": "2023-09-09T14:20:20.270916Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "optimization",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/bQh7xzFq/dd1604a4f53f765a1443db9fccae511a406df85d.gif",
+          "issues_url": "https://github.com/SSKirillSS/nerb/issues",
+          "source_url": "https://github.com/SSKirillSS/nerb",
+          "discord_url": "https://discord.gg/pHren9yxzW",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "ANmCMdMt",
+          "project_id": "bQh7xzFq",
+          "author_id": "9fmUwnzR",
+          "name": "nerb 0.3",
+          "version_number": "0.3",
+          "changelog": "",
+          "date_published": "2023-09-08T23:39:13.175102Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "a9e64d7ccc0b2ad8f08764da22a59dc075269dbd",
+                "sha512": "5bbe41e0232a26205af32ce8096e87e51757514c58f8b2c5b47820c2befc504819f5b2741bfff02ffd8370fcd6e6773e3bc6479a154e2a94f851a0790d3f2408"
+              },
+              "url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/ANmCMdMt/nerb-1.19.2-0.3-FORGE.jar",
+              "filename": "nerb-1.19.2-0.3-FORGE.jar",
+              "primary": true,
+              "size": 10391
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.19.2"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1703245210305,
-    "numPlays": 52,
+    "lastPlayed": 1703264025440,
+    "numPlays": 55,
     "lastExportName": "MC with Faint",
     "lastExportVersion": "1.19.2",
     "lastExportAuthor": "Lumintorious",
