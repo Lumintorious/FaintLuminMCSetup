@@ -1,0 +1,19 @@
+#Sun Dec 24 18:33:41 EET 2023
+handDepthMul=0.125
+TexMinFilB=0
+oldLighting=false
+TexMagFilN=0
+tweakBlockDamage=false
+cloudShadow=false
+TexMagFilS=0
+shaderPack=Sildur's+Basic+Shaders+v2.2+Fancy.zip
+TexMinFilN=0
+specularMapEnabled=true
+normalMapEnabled=true
+renderResMul=2.0
+oldHandLight=default
+TexMinFilS=0
+shadowResMul=1.5
+shadowClipFrustrum=true
+TexMagFilB=0
+antialiasingLevel=4
