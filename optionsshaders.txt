@@ -1,12 +1,12 @@
-#Sun Dec 24 18:33:41 EET 2023
+#Mon Dec 25 14:30:51 EET 2023
 handDepthMul=0.125
 TexMinFilB=0
-oldLighting=false
+oldLighting=default
 TexMagFilN=0
 tweakBlockDamage=false
 cloudShadow=false
 TexMagFilS=0
-shaderPack=Sildur's+Basic+Shaders+v2.2+Fancy.zip
+shaderPack=CPHSBC.zip
 TexMinFilN=0
 specularMapEnabled=true
 normalMapEnabled=true

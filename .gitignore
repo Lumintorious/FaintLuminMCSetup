@@ -22,7 +22,7 @@ config/inventoryprofilesnext
 config/MouseTweaks.cfg
 servers.dat
 servers.dat_old
-instance
+instance.json
 usercache.json
 usernamecache.json
 mods/rubidium-mc1.19.2-0.6.2c.jar

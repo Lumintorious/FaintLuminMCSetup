@@ -23115,7 +23115,7 @@
         "file": "chipped-forge-1.19.2-2.1.5.jar",
         "type": "mods",
         "description": "Every block deserves a friend.",
-        "disabled": true,
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -26994,13 +26994,2466 @@
           "fileFingerprint": 4293828666,
           "modId": 565833
         }
+      },
+      {
+        "name": "Crafting Tweaks",
+        "version": "Unknown",
+        "optional": true,
+        "file": "craftingtweaks-forge-1.19.2-15.1.9.jar",
+        "type": "mods",
+        "description": "Allows you to rotate, balance or clear the crafting matrix by the press of a button, in any (supported) crafting window.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 233071,
+        "curseForgeFileId": 4939198,
+        "curseForgeProject": {
+          "id": 233071,
+          "name": "Crafting Tweaks",
+          "authors": [
+            {
+              "id": 12099681,
+              "name": "BlayTheNinth",
+              "url": "https://www.curseforge.com/members/12099681-blaytheninth?username=blaytheninth"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Allows you to rotate, balance or clear the crafting matrix by the press of a button, in any (supported) crafting window.",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "crafting-tweaks",
+          "isFeatured": false,
+          "dateModified": "2023-12-08T15:04:35.923Z",
+          "dateCreated": "2015-07-23T11:50:44.043Z",
+          "dateReleased": "2023-12-08T14:05:54.133Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks",
+            "wikiUrl": "https://mods.twelveiterations.com/mc/craftingtweaks",
+            "issuesUrl": "https://github.com/blay09/CraftingTweaks/issues",
+            "sourceUrl": "https://github.com/blay09/CraftingTweaks"
+          },
+          "logo": {
+            "id": 49427,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/49/427/256/256/636077959957495136.png",
+            "title": "636077959957495136.png",
+            "url": "https://media.forgecdn.net/avatars/49/427/636077959957495136.png",
+            "modId": 233071
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 32562,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/32/562/310/172/ctclear.gif",
+              "title": "Clear (GIF)",
+              "url": "https://media.forgecdn.net/attachments/32/562/ctclear.gif",
+              "modId": 233071
+            },
+            {
+              "id": 27143,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/27/143/310/172/ctprom2.png",
+              "title": "Crafting Tweaks",
+              "url": "https://media.forgecdn.net/attachments/27/143/ctprom2.png",
+              "modId": 233071
+            },
+            {
+              "id": 32560,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/32/560/310/172/ctbalance.gif",
+              "title": "Balance (GIF)",
+              "url": "https://media.forgecdn.net/attachments/32/560/ctbalance.gif",
+              "modId": 233071
+            },
+            {
+              "id": 24871,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/24/871/310/172/2015-07-24_00.png",
+              "title": "Applied Energistics 2 Support",
+              "url": "https://media.forgecdn.net/attachments/24/871/2015-07-24_00.png",
+              "modId": 233071
+            },
+            {
+              "id": 24873,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/24/873/310/172/2015-07-24_00.png",
+              "title": "Draconic Evolution Support",
+              "url": "https://media.forgecdn.net/attachments/24/873/2015-07-24_00.png",
+              "modId": 233071
+            },
+            {
+              "id": 32561,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/32/561/310/172/ctspread.gif",
+              "title": "Spread (GIF)",
+              "url": "https://media.forgecdn.net/attachments/32/561/ctspread.gif",
+              "modId": 233071
+            },
+            {
+              "id": 32563,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/32/563/310/172/ctrotate.gif",
+              "title": "Rotate (GIF)",
+              "url": "https://media.forgecdn.net/attachments/32/563/ctrotate.gif",
+              "modId": 233071
+            }
+          ],
+          "mainFileId": 4939898
+        },
+        "curseForgeFile": {
+          "id": 4939198,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "craftingtweaks-forge-1.19.2-15.1.9.jar",
+          "fileName": "craftingtweaks-forge-1.19.2-15.1.9.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-12-08T10:31:20.307Z",
+          "fileLength": 182830,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 531761,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 25596423,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1789450988,
+              "name": "net"
+            },
+            {
+              "fingerprint": 3620214894,
+              "name": "craftingtweaks.mixins.json"
+            },
+            {
+              "fingerprint": 1945307846,
+              "name": "craftingtweaks-icon.png"
+            },
+            {
+              "fingerprint": 1022819472,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2607013402,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "34fb82b1a5a9e10d364bff57041e5e50f3b3d5b7",
+              "algo": 1
+            },
+            {
+              "value": "033279f85c73db759d7945193e9101dc",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 2467117453,
+          "modId": 233071
+        }
+      },
+      {
+        "name": "Ping",
+        "version": "Unknown",
+        "optional": true,
+        "file": "Ping-1.19-1.9.1.jar",
+        "type": "mods",
+        "description": "Inspired by Portal 2, this mod brings the Ping tool into Minecraft",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 222967,
+        "curseForgeFileId": 3865500,
+        "curseForgeProject": {
+          "id": 222967,
+          "name": "Ping",
+          "authors": [
+            {
+              "id": 8631507,
+              "name": "Girafi",
+              "url": "https://www.curseforge.com/members/8631507-girafi?username=girafi"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Inspired by Portal 2, this mod brings the Ping tool into Minecraft",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "ping",
+          "isFeatured": false,
+          "dateModified": "2023-12-20T06:12:53.077Z",
+          "dateCreated": "2014-08-01T19:28:50.767Z",
+          "dateReleased": "2023-12-20T05:45:35.297Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ping",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/GirafiStudios/Ping/issues",
+            "sourceUrl": "https://github.com/GirafiStudios/Ping"
+          },
+          "logo": {
+            "id": 9285,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/9/285/256/256/635425001467813326.png",
+            "title": "635425001467813326.png",
+            "url": "https://media.forgecdn.net/avatars/9/285/635425001467813326.png",
+            "modId": 222967
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 74012,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/12/310/172/pingminegold.png",
+              "title": "Mine that gold!",
+              "url": "https://media.forgecdn.net/attachments/74/12/pingminegold.png",
+              "modId": 222967
+            },
+            {
+              "id": 74015,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/15/310/172/2016-09-29_02.png",
+              "title": "Huh, something behind me?",
+              "url": "https://media.forgecdn.net/attachments/74/15/2016-09-29_02.png",
+              "modId": 222967
+            },
+            {
+              "id": 74013,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/74/13/310/172/2016-09-29_02.png",
+              "title": "Watch out for that zombie!",
+              "url": "https://media.forgecdn.net/attachments/74/13/2016-09-29_02.png",
+              "modId": 222967
+            }
+          ],
+          "mainFileId": 4970392
+        },
+        "curseForgeFile": {
+          "id": 3865500,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Ping-1.19-1.9.1.jar",
+          "fileName": "Ping-1.19-1.9.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-07-09T13:10:37.34Z",
+          "fileLength": 77562,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1553352510,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 783756921,
+              "name": "dmillerw"
+            },
+            {
+              "fingerprint": 753306341,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2063318241,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1437148883,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "da1d09ccc233b5461111f2bf976750d6d9fdd75a",
+              "algo": 1
+            },
+            {
+              "value": "5177e9c56f69822a420c755c3878e40b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge",
+            "1.19.1",
+            "1.19"
+          ],
+          "fileFingerprint": 1078737185,
+          "modId": 222967
+        }
+      },
+      {
+        "name": "Puzzles Lib [Forge & Fabric]",
+        "version": "Unknown",
+        "optional": true,
+        "file": "PuzzlesLib-v4.4.3-1.19.2-Forge.jar",
+        "type": "mods",
+        "description": "Why's it called Puzzles you ask? That's the puzzle!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 495476,
+        "curseForgeFileId": 4600775,
+        "curseForgeProject": {
+          "id": 495476,
+          "name": "Puzzles Lib [Forge & Fabric]",
+          "authors": [
+            {
+              "id": 10384423,
+              "name": "Fuzs",
+              "url": "https://www.curseforge.com/members/10384423-fuzs_?username=fuzs_"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Why's it called Puzzles you ask? That's the puzzle!",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "puzzles-lib",
+          "isFeatured": false,
+          "dateModified": "2023-12-03T21:35:14.66Z",
+          "dateCreated": "2021-06-18T21:32:37.78Z",
+          "dateReleased": "2023-12-03T21:22:18.26Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Fuzss/puzzleslib/issues",
+            "sourceUrl": "https://github.com/Fuzss/puzzleslib"
+          },
+          "logo": {
+            "id": 776232,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/776/232/256/256/638118144989284933.png",
+            "title": "638118144989284933.png",
+            "url": "https://media.forgecdn.net/avatars/776/232/638118144989284933.png",
+            "modId": 495476
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4924185
+        },
+        "curseForgeFile": {
+          "id": 4600775,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[FORGE] [1.19.2] PuzzlesLib-v4.4.3",
+          "fileName": "PuzzlesLib-v4.4.3-1.19.2-Forge.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-06-21T12:00:42.83Z",
+          "fileLength": 395272,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3683280155,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 483578749,
+              "name": "CHANGELOG.md"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 2806294832,
+              "name": "fuzs"
+            },
+            {
+              "fingerprint": 3308641653,
+              "name": "mod_banner.png"
+            },
+            {
+              "fingerprint": 2570547962,
+              "name": "mod_logo.png"
+            },
+            {
+              "fingerprint": 1681013802,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1652417411,
+              "name": "puzzleslib.common.accesswidener"
+            },
+            {
+              "fingerprint": 3713406756,
+              "name": "puzzleslib.common.mixins.json"
+            },
+            {
+              "fingerprint": 2827113189,
+              "name": "puzzleslib.forge.mixins.json"
+            },
+            {
+              "fingerprint": 103695323,
+              "name": "puzzleslib.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "ad531f214a2def16ff670cc94c0ea2ab40773b09",
+              "algo": 1
+            },
+            {
+              "value": "ada0a5030dfcecdfd37f18cc9deca7c6",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 868018196,
+          "modId": 495476
+        },
+        "modrinthProject": {
+          "id": "QAGBst4M",
+          "slug": "puzzles-lib",
+          "project_type": "mod",
+          "team": "ubZOU9rM",
+          "title": "Puzzles Lib",
+          "description": "Why's it called Puzzles you ask? That's the puzzle!",
+          "body": "<p><img src=\"https://i.imgur.com/4htIK3r.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://i.imgur.com/E6BUT4h.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><img src=\"https://img.shields.io/badge/available%20for%20Minecraft-1.19%20%7C%201.18%20%7C%201.17%20%7C%201.16-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"386\" height=\"28\" />&emsp;<img src=\"https://img.shields.io/badge/Install%20on-Client%20%26%20Server-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"240\" height=\"28\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7498\"><img src=\"https://bit.ly/3yrSsw7\" width=\"320\" height=\"28\" /></a></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7499\"><img src=\"https://bit.ly/3nRXr4m\" width=\"325\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\"><img src=\"https://bit.ly/30lZmFY\" width=\"208\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric\"><img src=\"https://bit.ly/3clkhvn\" width=\"299\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/E6BUT4h.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📖 About:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Puzzles Lib</strong> is a rather light-weight library consisting of multiple frameworks and utility classes. But most of all, it offers an abstraction layer for developing mods on both the Forge and Fabric mod loader, making ports and maintaining mods rather simple without having to rewrite a bunch of logic.</span></p>\n<p><span style=\"font-size: 14px;\">This mod doesn't do anything on its own, so install it only when you also use another one of my mods.</span></p>\n<p><span style=\"font-size: 14px;\">The Fabric version of this project additionally depends on the <a href=\"https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric\"><span style=\"font-size: 14px;\"><strong>Forge Config API Port</strong></span></a> library. This is required for mod configuration, as it allows for using the exact same system as on the Forge mod loader.</span></p>\n<p><img src=\"https://i.imgur.com/E6BUT4h.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/fuzs_/projects\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs_&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzss&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"89\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=@Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"124\" height=\"28\" /></a>&emsp;<a href=\"https://www.reddit.com/user/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=u/Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=reddit&amp;logoColor=white\" alt=\"Reddit\" width=\"130\" height=\"28\" /></a>&emsp;<img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs%200212&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"127\" height=\"28\" /></p>\n<p><img src=\"https://i.imgur.com/E6BUT4h.png\" width=\"854\" height=\"14\" /></p>",
+          "published": "2022-07-06T18:55:14.270853Z",
+          "updated": "2023-12-03T21:22:22.008900Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/QAGBst4M/icon.png",
+          "issues_url": "https://github.com/Fuzss/puzzleslib/issues",
+          "source_url": "https://github.com/Fuzss/puzzleslib",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/QAGBst4M/images/f57930a615a4c67e94387efeb6016c3e2d3e8ff9.png",
+              "featured": true,
+              "created": "2023-01-09T11:26:08.420283Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "UbCrBSit",
+          "project_id": "QAGBst4M",
+          "author_id": "rHdGpxOA",
+          "name": "[FORGE] [1.19.2] PuzzlesLib-v4.4.3",
+          "version_number": "v4.4.3-1.19.2-Forge",
+          "changelog": "# Changelog\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog].\n\n## [v4.4.3-1.19.2] - 2023-06-21\n### Fixed\n- Fixed an issue related to serializing enum types for sending in network messages\n\n## [v4.4.2-1.19.2] - 2023-06-15\n### Fixed\n- Fixed yet another class loading issue given Fabric Loader trouble recognizing Puzzles Lib as a mod\n\n## [v4.4.1-1.19.2] - 2023-06-12\n### Fixed\n- Fixed a class loading issue related to loading service provider interfaces\n\n## [v4.4.0-1.19.2] - 2023-04-20\n- Public release for all new features added since v4.3.12\n\n## [v4.3.44-1.19.2] - 2023-02-27\n### Fixed\n- Actually implement new events accepting enqueued work haha\n\n## [v4.3.43-1.19.2] - 2023-02-27\n### Changed\n- Allow for enqueuing work during mod construct and setup events\n\n## [v4.3.42-1.19.2] - 2023-02-13\n### Changed\n- Added access to vanilla `BlockColors` and `ItemColors` to `ColorProvidersContext`\n\n## [v4.3.41-1.19.2] - 2023-02-13\n### Fixed\n- Fixed vanilla item model overrides not being applied for items with different models depending on `TransformType`\n\n## [v4.3.40-1.19.2] - 2023-02-07\n### Added\n- Added a method for registering flammable block properties in the common project\n### Changed\n- Some clean-up for common registration implementations on Forge\n\n## [v4.3.39-1.19.2] - 2023-02-04\n### Added\n- Added a method for registering item and block colors in the common project\n### Changed\n- Refactored a few client-side registration methods to accept a varargs parameter\n### Fixed\n- Fixed an issue where networking messages would be registered in a different order on dedicated client/server\n\n## [v4.3.38-1.19.2] - 2023-02-03\n### Changed\n- Improved type parameters in `LivingEntityRenderLayersContext`\n\n## [v4.3.37-1.19.2] - 2023-02-01\n### Fixed\n- Fixed server configs failing to unload\n\n## [v4.3.36-1.19.2] - 2023-02-01\n### Fixed\n- Fixed an issue when registering client and common configs on Fabric due to a forward reference\n\n## [v4.3.35-1.19.2] - 2023-01-28\n### Fixed\n- Fixed potion recipes on Forge being broken\n\n## [v4.3.33-1.19.2] - 2023-01-27\n### Added\n- Added utility methods to creative tab builder to automatically add all enchantments and potions from a mod\n### Changed\n- Applied transitive access widener to `AbstractSkeleton::getStepSound` to make the class extensible \n\n## [v4.3.32-1.19.2] - 2023-01-20\n### Changed\n- Improved handling of configs with default values (those are loaded when a config is accessed before it has been loaded)\n- Built-in protection for `com.electronwill.nightconfig.core.io.ParsingException: Not enough data available`\n- Puzzles Lib now explicitly requires the Minecraft version it's been compiled on (which is 1.19.2 currently)\n\n## [v4.3.31-1.19.2] - 2023-01-18\n### Changed\n- Server mod configs are now stored in the global `.minecraft/config` directory instead of locally per world\n- This effectively disables local per-world server configs, but helps a lot with user confusion and frustration\n\n## [v4.3.30-1.19.2] - 2023-01-17\n### Fixed\n- Fixed backwards compatibility for a few changed method signatures\n\n## [v4.3.29-1.19.2] - 2023-01-17\n### Fixed\n- Fix access level of methods in `BlockRenderTypesContext`\n\n## [v4.3.28-1.19.2] - 2023-01-16\n### Added\n- Added a method for registering `RenderType`s for blocks and fluids in the common project\n- Added a helper method for registering new recipe types\n- Added `ContentRegistrationFlags` so a mod can request specific features that need to be registered to work to be enabled\n\n## [v4.3.27-1.19.2] - 2023-01-13\n### Added\n- Added a utility method for getting a mod's display name in common\n\n## [v4.3.26-1.19.2] - 2023-01-09\n### Changed\n- Use mod loader provided methods for registering brewing recipes instead of custom implementation\n\n## [v4.3.25-1.19.2] - 2023-01-06\n### Added\n- Added `ModConstructor::onRegisterBiomeModifications` similar to Forge's old `BiomeLoadingEvent` from before Minecraft 1.19 for applying biome modifications in code in the common project rather than via data packs (like Forge does now)\n- This includes a port of a big portion of Fabric API's biome api to the common workspace, so that Forge's current biome modification system can be implemented on top of it\n### Changed\n- Expanded `ReflectionHelperV2` to allow for passing target classes in as a raw type name to handle classes that may not be accessible or not present at runtime\n- Networking classes related to the V2 implementation are no longer marked deprecated as they are still wildly used and the new system does not provide an advantage in most use cases\n\n## [v4.3.24-1.19.2] - 2023-01-03\n### Added\n- Added `ItemModelOverrides` for registering custom item models for certain `ItemTransforms.TransformType`s (like trident and spyglass)\n### Fixed\n- Fixed custom `BlockEntityWithoutLevelRenderer`s not reloading when the resource listener does on Forge\n\n## [v4.3.23-1.19.2] - 2023-01-01\n### Changed\n- Use `NonNullList`s when filling in creative mode tab items\n\n## [v4.3.22-1.19.2] - 2022-12-31\n### Fixed\n- Fixed common mixins on Fabric\n\n## [v4.3.21-1.19.2] - 2022-12-31\n### Fixed\n- Fixed byte buf serializer\n- Fixed `fabric.mod.json` access widener entry\n\n## [v4.3.20-1.19.2] - 2022-12-31\n### Fixed\n- Removed all invalid registry serializers\n\n## [v4.3.19-1.19.2] - 2022-12-31\n### Fixed\n- Fixed duplicate message serializer\n\n## [v4.3.18-1.19.2] - 2022-12-30\n### Fixed\n- Fixed access widener in `quilt.mod.json`\n\n## [v4.3.17-1.19.2] - 2022-12-30\n### Added\n- Puzzles Lib now includes a few transitive access wideners in the Common and Fabric projects\n- Added a new networking system based on Java's records, heavily inspired by the networking system found in [Owo Lib](https://www.curseforge.com/minecraft/mc-mods/owo-lib) by [Glisco](https://github.com/gliscowo)\n- Added `PotionBrewingRegistry` for registering potions using `Ingredient` instead of `Item`, while also providing access in the Common project\n- Added methods in `ClientModConstructor` for registering custom skull type renderers and entity shaders for spectator mode\n- Added `SkullRenderersRegistry` on Fabric for registering models for custom skull types\n- Added `EntitySpectatorShaderRegistry` on Fabric for registering entity shaders for spectator mode\n- Added `AdditionalAddEntityData` interface for sending extra data to clients when an entity is added\n### Changed\n- `CommonAbstractions` now includes simplified methods for creating a new `CreativeModeTab`\n- `RegistryReference` now includes two helper methods to check whether the reference is present or empty\n\n## [v4.3.16-1.19.2] - 2022-12-15\n### Changed\n- Refined enabling search bar in custom creative mode tabs\n\n## [v4.3.15-1.19.2] - 2022-12-15\n### Fixed\n- Fixed `java.lang.StackOverflowError` when rendering custom creative mode tab due to an oversight\n\n## [v4.3.14-1.19.2] - 2022-12-15\n### Added\n- Added `CreativeModeTabBuilder`, replacing previous factory methods while allowing for setting many more options on a tab\n\n## [v4.3.13-1.19.2] - 2022-12-15\n### Added\n- Added interface with default implementation for containers\n- Added a helper method for checking if a `KeyMapping` is active\n- Allow constructing `StairBlock` and `DamageSource` in common without an anonymous class\n### Changed\n- Moved `CreativeModeTab` factory to common packages, also add more options\n\n## [v4.3.12-1.19.2] - 2022-10-19\n### Added\n- Added access to the `hoveredSlot` in the `CommonScreens` helper class\n### Changed\n- Moved all Service Provider Interfaces to their decentralized classes to prevent issues with early class loading when all SPIs are loaded simultaneously (this is not effective yet as the main `CoreServices` and `ClientCoreServices` currently remain for backwards compatibility)\n\n## [v4.3.11-1.19.2] - 2022-10-15\n### Fixed\n- Temporary fix for start-up crash due to a class being loaded before all mixins could apply when Stylish Effects is installed on Quilt\n\n## [v4.3.10-1.19.2] - 2022-10-12\n### Added\n- Added new `ReflectionHelperV2` class, the old one is now deprecated\n\n## [v4.3.9-1.19.2] - 2022-10-04\n### Changed\n- Limited error messages from config values being used when a config is not yet available to showing up just once to avoid log spam \n\n## [v4.3.8-1.19.2] - 2022-09-26\n### Changed\n- Improve handling of registry manager placeholder entries\n\n## [v4.3.7-1.19.2] - 2022-09-24\n### Fixed\n- Fixed existing `NetworkHandler`'s being recreated \n\n## [v4.3.6-1.19.2] - 2022-09-23\n### Added\n- Added an event for registering key binds\n\n## [v4.3.5-1.19.2] - 2022-09-14\n### Added\n- Added a way for opening menus with additional data\n\n## [v4.3.4-1.19.2] - 2022-09-14\n### Changed\n- Added a few small utility methods to `ConfigDataSet`\n\n## [v4.3.3-1.19.2] - 2022-09-14\n### Changed\n- Overhauled internal handling of config options for game registry data (e.g. a list of items or blocks) to allow for tag support and greater flexibility when defining these options\n### Fixed\n- Fixed an issue where client-only mods would sometimes not properly work on servers\n\n## [v4.3.2-1.19.2] - 2022-09-13\n### Fixed\n- Fixed baked model event firing too late, resulting in any proposed modifications being lost\n\n## [v4.3.1-1.19.2] - 2022-09-01\n### Fixed\n- Set dependency on Minecraft 1.19.2+ due to features introduced in Forge 1.19.2-43.1.0 being used\n\n## [v4.3.0-1.19.2] - 2022-09-01\n- Public release for all additions and changes made since v4.2.4\n- This breaks a small number of mods, they'll quickly be updated\n\n## [v4.2.17-1.19.2] - 2022-08-31\n### Added\n- Added a way for deferring content registration on Fabric to better support when registration entries depending on another (e.g. blocks and the corresponding block entity) are added separately in both the common and the Fabric subproject\n\n## [v4.2.16-1.19.2] - 2022-08-30\n### Fixed\n- Fixed context for registering living entity layers not containing all required instances\n\n## [v4.2.15-1.19.2] - 2022-08-30\n### Added\n- Allow for registering living entity layers in common\n### Changed\n- Added a bunch of null safety checks for methods involved with mod construction\n\n## [v4.2.14-1.19.2] - 2022-08-30\n### Added\n- Allow for registering custom client resource managers in common\n\n## [v4.2.13-1.19.2] - 2022-08-29\n### Added\n- Allow for registering listeners that run after baked models have been reloaded\n- This includes a helper method for baking a model in the common project\n### Changed\n- Mod service classes should no longer extend `CoreServices`, method for loading a service is now accessible from outside\n### Removed\n- Removed `ModelEvents` class on Fabric, the same can be achieved by registering a `ReloadListener` for baked models\n\n## [v4.2.12-1.19.2] - 2022-08-28\n### Added\n- Allow for registering item decorators (like stack count) in common project, includes api implementation on Fabric\n\n## [v4.2.11-1.19.2] - 2022-08-27\n### Added\n- Allow for registering custom `BlockEntityWithoutLevelRenderer`'s in the common project\n\n## [v4.2.10-1.19.2] - 2022-08-27\n### Fixed\n- Fixed setting a player sync strategy for a capability not being accessible from the common project\n\n## [v4.2.9-1.19.2] - 2022-08-27\n### Fixed\n- Fixed retrieving capability id falsely requiring the capability to be present on Forge\n\n## [v4.2.8-1.19.2] - 2022-08-27\n### Added\n- Added support for automatically syncing player capabilities\n### Changed\n- Capability player respawn strategies are now handled by the capability key\n### Fixed\n- Fixed client player instance sometimes being `null` for received network messages on Forge\n\n## [v4.2.7-1.19.2] - 2022-08-26\n### Fixed\n- Fix capability data failing to save on Forge\n\n## [v4.2.6-1.19.2] - 2022-08-26\n### Added\n- Added utility method for registering item model predicates\n- Added support for sending messages to players tracking an entity in `NetworkHandler`\n### Changed\n- Moved a bunch of duplicate code in `NetworkHandler` to common project\n\n## [v4.2.5-1.19.2] - 2022-08-26\n### Added\n- Added utility method for creating creative mode tabs\n\n## [v4.2.4-1.19.2] - 2022-08-26\n### Changed\n- Cardinal Components is once again included in the mod jar, this is done to be able to have a single component initializer for all my mods, while also being safe from not all required modules of Cardinal Components being present at runtime\n### Fixed\n- Fixed start-up crash for mods that use this library and Cardinal Components\n\n## [v4.2.3-1.19.2] - 2022-08-23\n### Added\n- Added a few utility methods for modifying/replacing loot tables\n\n## [v4.2.2-1.19.2] - 2022-08-22\n### Fixed\n- Temporarily fixed crash with other mods including only a few modules of Cardinal Components\n\n## [v4.2.1-1.19.2] - 2022-08-21\n### Changed\n- Minor networking `Message` cleanup\n\n## [v4.2.0-1.19.2] - 2022-08-20\n- Compiled for Minecraft 1.19.2\n### Changed\n- Rewrote `CapabilityController` to reduce duplicate code on different mod loaders required for capability registration\n- Renamed `PacketHandler` to `MessageHandler`\n- Updated for changes in Fabric Api 0.60.0+1.19.2\n\n## [v4.1.8-1.19.1] - 2022-08-16\n### Added\n- Added utility method for command registration\n\n## [v4.1.6-1.19.1] - 2022-08-06\n### Changed\n- Made network manager check messages are being sent to the correct side on Fabric\n\n## [v4.1.5-1.19.1] - 2022-08-06\n### Fixed\n- Fix type constraints when registering network messages\n\n## [v4.1.4-1.19.1] - 2022-08-01\n### Fixed\n- Fixed client configs causing dedicated servers to fail on start-up\n\n## [v4.1.3-1.19.1] - 2022-08-01\n### Added\n- Added a few utility methods for handling block models\n\n## [v4.1.2-1.19.1] - 2022-07-31\n### Fixed\n- Fixed log spam when loading configs\n\n## [v4.1.1-1.19.1] - 2022-07-30\n### Fixed\n- Correctly handle config unloading\n\n## [v4.1.0-1.19.1] - 2022-07-30\n- Compiled for Minecraft 1.19.1\n### Changed\n- Cleaned up networking classes\n- Made config annotations more powerful, removing the need to set category names and comments on config objects\n### Removed\n- Remove deprecated methods and classes\n\n## [v4.0.18-1.19] - 2022-07-26\n### Added\n- Added a utility class for creating and registering new game rules\n### Changed\n- Switched `CommonScreens` class back to using an SPI\n- Renamed config related helper methods \n\n## [v4.0.17-1.19] - 2022-07-20\n### Changed\n- Allow final category fields in annotated configs\n### Fixed\n- Fixed crash on dedicated servers due to faulty import\n\n## [v4.0.15-1.19] - 2022-07-19\n### Added\n- Added access for screen buttons to `Screens` utility class\n- Added a way for registering search trees\n\n## [v4.0.14-1.19] - 2022-07-19\n### Changed\n- Made sure mods always use the correct mod event bus when registering game content\n### Fixed\n- Fixed bug in registry manager that would result in game content being registered for the wrong mod id\n\n## [v4.0.13-1.19] - 2022-07-19\n### Added\n- Added a helper method for registering a material to the proper texture atlas\n### Changed\n- Moved method for baking configs into base interface\n### Fixed\n- Fixed a bug where `ConfigDataHolderV2` would always throw a `NullPointerException` during config load\n- Fixed `ModEntityTypeBuilder` being created from supplier too early on Forge\n\n## [v4.0.12-1.19] - 2022-07-18\n### Added\n- Added overhauled config system to allow for as many configs as desired regardless of type\n\n## [v4.0.11-1.19] - 2022-07-17\n### Added\n- Added the mod loader type to the current mod loader environment context\n### Fixed\n- Fixed type arguments when registering placeholder registry references\n\n## [v4.0.10-1.19] - 2022-07-17\n### Changed\n- Adjusted a few internal names for registering game content\n\n## [v4.0.9-1.19] - 2022-07-17\n### Added\n- Added mod base interfaces for common and client with many new helper methods for registering content\n- Added helper class for client factory methods\n### Changed\n- Converted `FuelManager` and `Screens` to no longer use a Service Provider Interface\n### Fixed\n- Fixed possible start-up crash on Forge due to methods in mixin classes not being properly obfuscated\n\n## [v4.0.8-1.19] - 2022-07-13\n- Fully compatible with Forge 41.0.98+ which is also now required\n### Added\n- Added a way for registering particle types\n### Changed\n- Renamed `Services` to `CoreServices`, old classes remain as overloads for now\n### Fixed\n- Fixed `RegistryManager` not returning the exact type it was provided\n- Should no longer show as incompatible with servers that don't have Puzzles Lib\n\n## [v4.0.7-1.19] - 2022-07-11\n### Changed\n- Small code clean-ups\n\n## [v4.0.6-1.19] - 2022-07-11\n### Added\n- Added a few more utility methods for registering game content\n### Fixed\n- Fixed RegistryReference::placeholder always throwing an exception when used\n\n## [v4.0.5-1.19] - 2022-07-09\n### Fixed\n- Attempt to fix common jar not being deobfuscated when applying from Maven in dependant projects\n\n## [v4.0.4-1.19] - 2022-07-09\n### Fixed\n- Fixed common project depending on Quilt\n\n## [v4.0.3-1.19] - 2022-07-09\n### Added\n- Added a utility class for registering client side content\n### Fixed\n- Fixed Modrinth upload tasks\n\n## [v4.0.2-1.19] - 2022-07-07\n### Changed\n- Renamed internal base classes to follow mod loader specific names\n\n## [v4.0.1-1.19] - 2022-07-07\n### Fixed\n- Fixed maven dependency for Forge version\n\n## [v4.0.0-1.19] - 2022-07-07\n- Ported to Minecraft 1.19\n- Split into multi-loader project\n\n[Keep a Changelog]: https://keepachangelog.com/en/1.0.0/",
+          "date_published": "2023-06-21T12:00:47.576724Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "ad531f214a2def16ff670cc94c0ea2ab40773b09",
+                "sha512": "a17fae22581d7a2c6947ba6fc58b38f34197e22aec430dbaa6eee7104cf891b9e9abbea5a322c04b1f3f1df04fa7462f603ca5c2d7ad3657198cc3989fda7bd2"
+              },
+              "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/UbCrBSit/PuzzlesLib-v4.4.3-1.19.2-Forge.jar",
+              "filename": "PuzzlesLib-v4.4.3-1.19.2-Forge.jar",
+              "primary": true,
+              "size": 395272
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.19.2"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Visual Workbench [Forge & Fabric]",
+        "version": "Unknown",
+        "optional": true,
+        "file": "VisualWorkbench-v4.2.4-1.19.2-Forge.jar",
+        "type": "mods",
+        "description": "Items stay inside of crafting tables and are also rendered on top. It's really fancy!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 500273,
+        "curseForgeFileId": 4455250,
+        "curseForgeProject": {
+          "id": 500273,
+          "name": "Visual Workbench [Forge & Fabric]",
+          "authors": [
+            {
+              "id": 10384423,
+              "name": "Fuzs",
+              "url": "https://www.curseforge.com/members/10384423-fuzs_?username=fuzs_"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Items stay inside of crafting tables and are also rendered on top. It's really fancy!",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "visual-workbench",
+          "isFeatured": false,
+          "dateModified": "2023-06-27T21:01:41.143Z",
+          "dateCreated": "2021-07-03T11:28:49.237Z",
+          "dateReleased": "2023-06-27T21:00:17.83Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/visual-workbench",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Fuzss/visualworkbench/issues",
+            "sourceUrl": "https://github.com/Fuzss/visualworkbench"
+          },
+          "logo": {
+            "id": 802986,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/802/986/256/256/638168095863992377.png",
+            "title": "638168095863992377.png",
+            "url": "https://media.forgecdn.net/avatars/802/986/638168095863992377.png",
+            "modId": 500273
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 491949,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/491/949/310/172/2022-08-31_23.png",
+              "title": "Your crafting tables have never looked as fancy",
+              "url": "https://media.forgecdn.net/attachments/491/949/2022-08-31_23.png",
+              "modId": 500273
+            },
+            {
+              "id": 381485,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/381/485/310/172/2021-07-19_21.png",
+              "title": "Flat item rendering option",
+              "url": "https://media.forgecdn.net/attachments/381/485/2021-07-19_21.png",
+              "modId": 500273
+            },
+            {
+              "id": 491950,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/491/950/310/172/2022-08-31_23.png",
+              "title": "Choose flat item rendering if you prefer the look",
+              "url": "https://media.forgecdn.net/attachments/491/950/2022-08-31_23.png",
+              "modId": 500273
+            },
+            {
+              "id": 376998,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/376/998/310/172/2021-07-03_13.png",
+              "title": "Modded crafting tables work too",
+              "url": "https://media.forgecdn.net/attachments/376/998/2021-07-03_13.png",
+              "modId": 500273
+            },
+            {
+              "id": 376997,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/376/997/310/172/2021-07-03_12.png",
+              "title": "Crafting now looks really fancy",
+              "url": "https://media.forgecdn.net/attachments/376/997/2021-07-03_12.png",
+              "modId": 500273
+            },
+            {
+              "id": 381484,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/381/484/310/172/2021-07-19_21.png",
+              "title": "Floating item rendering option",
+              "url": "https://media.forgecdn.net/attachments/381/484/2021-07-19_21.png",
+              "modId": 500273
+            }
+          ],
+          "mainFileId": 4612697
+        },
+        "curseForgeFile": {
+          "id": 4455250,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[FORGE] [1.19.2] VisualWorkbench-v4.2.4",
+          "fileName": "VisualWorkbench-v4.2.4-1.19.2-Forge.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-03-24T17:34:35.933Z",
+          "fileLength": 82918,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 495476,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 4455252,
+          "modules": [
+            {
+              "fingerprint": 4027292533,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1660962102,
+              "name": "CHANGELOG.md"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 3822370155,
+              "name": "fuzs"
+            },
+            {
+              "fingerprint": 23338272,
+              "name": "mod_banner.png"
+            },
+            {
+              "fingerprint": 408517008,
+              "name": "mod_logo.png"
+            },
+            {
+              "fingerprint": 1453328586,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 601014665,
+              "name": "visualworkbench.common.mixins.json"
+            },
+            {
+              "fingerprint": 63949103,
+              "name": "visualworkbench.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "fcaee8ed15ce4d9597f6b6c3d7ef22443e0e94f6",
+              "algo": 1
+            },
+            {
+              "value": "d23680b419036187552f8d5a8a6d3312",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge",
+            "1.19.1"
+          ],
+          "fileFingerprint": 4170575531,
+          "modId": 500273
+        },
+        "modrinthProject": {
+          "id": "kfqD1JRw",
+          "slug": "visual-workbench",
+          "project_type": "mod",
+          "team": "r33eUgPo",
+          "title": "Visual Workbench",
+          "description": "Items stay inside of crafting tables and are also rendered on top. It's really fancy!",
+          "body": "<p><img src=\"https://i.imgur.com/hXGsr31.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://i.imgur.com/GDRRfHI.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><img src=\"https://img.shields.io/badge/Available%20for%20Minecraft-1.19%20%7C%201.18%20%7C%201.17%20%7C%201.16-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"386\" height=\"28\" />&emsp;<img src=\"https://img.shields.io/badge/Install%20on-Client%20%26%20Server-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"240\" height=\"28\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/visual-workbench/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7498\"><img src=\"https://bit.ly/3yrSsw7\" width=\"320\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib\"><img src=\"https://bit.ly/3jr9xQw\" width=\"215\" height=\"28\" /></a></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/visual-workbench/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7499\"><img src=\"https://bit.ly/3nRXr4m\" width=\"325\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\"><img src=\"https://bit.ly/30lZmFY\" width=\"208\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib\"><img src=\"https://bit.ly/3jr9xQw\" width=\"215\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric\"><img src=\"https://bit.ly/3clkhvn\" width=\"299\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/GDRRfHI.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📖 About:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Visual Workbench</strong> makes items put into a crafting table stay inside. Breaking the block drops everything on the ground, just like you'd expect. Oh, and crafting ingredients as well as the resulting item are also rendered on top. Really fancy if you ask me!</span></p>\n<p><img src=\"https://i.imgur.com/GDRRfHI.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📷 Media:</strong></span></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/491/949/2022-08-31_23.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/491/950/2022-08-31_23.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>Your crafting tables have never looked as fancy</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>Choose flat item rendering if you prefer the look</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://i.imgur.com/GDRRfHI.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>💡 FAQ:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: How do I configure this mod on Forge?</strong><br /><strong>A:</strong> Install my <span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><span style=\"font-size: 14px;\"><strong>Config Menus for Forge</strong></span></a> mod and do it directly in-game!</span></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: How do I configure this mod on Fabric?</strong><br /><strong>A:</strong> Editing configs directly in-game has not yet been implemented. Instead when in a world run the <code>/config showfile &lt;modid&gt;</code> command by choosing either <code>CLIENT</code> or <code>SERVER</code> (depending on the mod), then click the file name (ending with .toml) that appears in chat to be able to manually edit the config file in a separate editor. After saving the file, the config will automatically reload in-game after a couple of seconds, so no game restart required.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: Where can I download this mod for Fabric on versions of Minecraft before 1.19?</strong><br /><strong>A:</strong> Older downloads are found on the <a href=\"https://www.curseforge.com/minecraft/mc-mods/visual-workbench-fabric\"><span style=\"font-size: 14px;\"><strong>old project page</strong></span></a>.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: Does this work with crafting tables from other mods?</strong><br /><strong>A:</strong> Yes, it does, but support has to be manually enabled per block. Many modded crafting tables are supported by default, those that are not can be added to a custom config file found at <code>.minecraft/config/visual_workbench.json</code> (not accessible from in-game). If you add a crafting table yourself and it doesn't work it is likely incompatible with this mod.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: Now that items stay in the table, clearing the interface is so tedious. What can I do?</strong><br /><strong>A:</strong> Try <a href=\"https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks\"><span style=\"font-size: 14px;\">Crafting Tweaks</span></a>, a mod by <a href=\"https://www.curseforge.com/members/blaytheninth\"><span style=\"font-size: 14px;\"><strong>BlayTheNinth</strong></span></a>.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: Can you backport to 1.12?</strong><br /><strong>A:</strong> No, but check out the original <a href=\"https://www.curseforge.com/minecraft/mc-mods/realbench\"><span style=\"font-size: 14px;\">RealBench</span></a> mod by <a href=\"https://www.curseforge.com/members/prototik\"><span style=\"font-size: 14px;\"><strong>Prototik</strong></span></a>.</span></p>\n<p><img src=\"https://i.imgur.com/GDRRfHI.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>🏆 Credits:</strong></span></p>\n<p><span style=\"font-size: 14px;\">Developing <strong>Visual Workbench</strong> was helped and inspired by:</span></p>\n<ul>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/prototik\"><span style=\"font-size: 14px;\"><strong>Prototik</strong></span></a> for the original idea and most of the rendering code from their <a href=\"https://www.curseforge.com/minecraft/mc-mods/realbench\"><span style=\"font-size: 14px;\">RealBench</span></a> mod</span></li>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/tfarecnim\"><span style=\"font-size: 14px;\"><strong>Tfarecnim</strong></span></a> for the <a href=\"https://www.curseforge.com/minecraft/mc-mods/jei\"><span style=\"font-size: 14px;\">JEI</span></a> plugin code from their <a href=\"https://www.curseforge.com/minecraft/mc-mods/crafting-station\"><span style=\"font-size: 14px;\">Crafting Station</span></a> mod</span></li>\n<li><span style=\"font-size: 14px;\"><strong>Daomephsta</strong> from the Fabric Discord for pointing me into the right direction for supporting modded crafting tables on Fabric</span></li>\n</ul>\n<p><img src=\"https://i.imgur.com/GDRRfHI.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/lunapixelstudios/projects\"><img src=\"https://img.shields.io/static/v1?label=CurseForge&amp;message=LunaPixelStudios&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"282\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/LunaPixelStudio\"><img src=\"https://img.shields.io/twitter/follow/LunaPixelStudio?label=Twitter&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"149\" height=\"28\" /></a>&emsp;<a href=\"https://discord.gg/8ZmhaPPbjE\"><img src=\"https://img.shields.io/discord/790272037578473512?label=Discord&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"220\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/1MOyd2u.png\" width=\"854\" height=\"300\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/fuzs_/projects\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs_&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzss&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"89\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=@Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"124\" height=\"28\" /></a>&emsp;<a href=\"https://www.reddit.com/user/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=u/Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=reddit&amp;logoColor=white\" alt=\"Reddit\" width=\"130\" height=\"28\" /></a>&emsp;<img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs%200212&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"127\" height=\"28\" /></p>\n<p><img src=\"https://i.imgur.com/GDRRfHI.png\" width=\"854\" height=\"14\" /></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><img src=\"https://i.imgur.com/kiHP8s9.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/better-animations-collection\"><img src=\"https://i.imgur.com/OVV5lXk.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/trading-post\"><img src=\"https://i.imgur.com/UzgNFIB.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier\"><img src=\"https://i.imgur.com/DCwxKZU.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/console-experience\"><img src=\"https://i.imgur.com/aXWOS7B.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/stylish-effects\"><img src=\"https://i.imgur.com/fmWwWkZ.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-magic\"><img src=\"https://i.imgur.com/Mlxi8cy.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/diagonal-fences\"><img src=\"https://i.imgur.com/mU9OlhP.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/golden-age-combat\"><img src=\"https://i.imgur.com/sHiR309.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/air-hop\"><img src=\"https://i.imgur.com/MinxlVJ.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://i.imgur.com/GDRRfHI.png\" width=\"854\" height=\"14\" /></p>",
+          "published": "2022-07-19T14:58:04.326694Z",
+          "updated": "2023-06-27T21:00:21.467502Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/kfqD1JRw/b5609cba027135303ccee5ff1d69fae6ae0d3e33.png",
+          "issues_url": "https://github.com/Fuzss/visualworkbench/issues",
+          "source_url": "https://github.com/Fuzss/visualworkbench",
+          "discord_url": "https://discord.gg/8ZmhaPPbjE",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/kfqD1JRw/images/bcd4689e34cabef4f34fc4eb34e6a1e99e2d5df9.png",
+              "featured": true,
+              "created": "2023-01-09T11:26:28.301028Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "1u457HoS",
+          "project_id": "kfqD1JRw",
+          "author_id": "rHdGpxOA",
+          "name": "[FORGE] [1.19.2] VisualWorkbench-v4.2.4",
+          "version_number": "v4.2.4-1.19.2-Forge",
+          "changelog": "# Changelog\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog].\n\n## [v4.2.4-1.19.2] - 2023-03-24\n### Fixed\n- Implemented an alternative fix for the Tetra issue addressed in the last version so that no compatibility with certain crafting table mods (such as [Variant Crafting Tables](https://www.curseforge.com/minecraft/mc-mods/variant-crafting-tables)) needs to be sacrificed\n\n## [v4.2.3-1.19.2] - 2023-02-25\n### Fixed\n- Fixed an issue with the Tetra mod where their workbench block couldn't be created by clicking on a crafting table with a hammer\n\n## [v4.2.2-1.19.2] - 2023-02-10\n### Changed\n- Minor refactors and clean-ups\n### Fixed\n- Fixed empty item stacks being serialized occasionally leading to huge nbt tags\n- Fixed rendering calculations running on the server, too, which is unnecessary\n\n## [v4.2.1-1.19.2] - 2023-01-06\n### Fixed\n- Fixed crafting tables ignoring the player sneaking when clicked upon (the menu would open regardless and prevent placing any blocks against the crafting table)\n\n## [v4.2.0-1.19.2] - 2022-08-21\n- Compiled for Minecraft 1.19.2\n\n## [v4.1.1-1.19.1] - 2022-08-14\n### Changed\n- Modded crafting tables are now fully supported on Fabric yay!\n- Added default compat for crafting tables from a few more mods\n\n## [v4.1.0-1.19.1] - 2022-08-01\n- Compiled for Minecraft 1.19.1\n- Updated to Puzzles Lib v4.1.0\n\n## [v4.0.0-1.19] - 2022-07-19\n- Ported to Minecraft 1.19\n- Split into multi-loader project\n### Added\n- Added JEI support on Fabric\n### Changed\n- Modded crafting tables that override opening the crafting menu can now be supported when added to the config (e.g. from the VariantCraftingTables mod)\n### Fixed\n- Fixed the result preview showing a wrong item when said item has nbt data\n\n[Keep a Changelog]: https://keepachangelog.com/en/1.0.0/\n",
+          "date_published": "2023-03-24T17:34:42.241197Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "fcaee8ed15ce4d9597f6b6c3d7ef22443e0e94f6",
+                "sha512": "1e68143492500ce7cbad4742ff8cb53723213f7df1c28320b5b8c8bf6dbec4bd326fbf2350f8aedd586c4eb2b38fa440ad66d18350f4ca6c0e50265b856fbd9a"
+              },
+              "url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/1u457HoS/VisualWorkbench-v4.2.4-1.19.2-Forge.jar",
+              "filename": "VisualWorkbench-v4.2.4-1.19.2-Forge.jar",
+              "primary": true,
+              "size": 82918
+            },
+            {
+              "hashes": {
+                "sha1": "cc1100d2583594ed70ba3f396e85ff498ec0d0fd",
+                "sha512": "4f5b4e5b24212357f8f1d7c30c1c43c7b691494a69b87a17dec018d9096575c2d35454eba84eda516a079685f253ab5e27a8e05bdc94ae4138e1cc145fc242b2"
+              },
+              "url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/1u457HoS/VisualWorkbench-v4.2.4-1.19.2-Forge-sources.jar",
+              "filename": "VisualWorkbench-v4.2.4-1.19.2-Forge-sources.jar",
+              "primary": false,
+              "size": 29676
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "UbCrBSit",
+              "project_id": "QAGBst4M",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.19.1",
+            "1.19.2"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Better Leaves",
+        "version": "v1.5",
+        "optional": true,
+        "file": "§fBetter §2§lLeaves §71.20.zip",
+        "type": "resourcepack",
+        "description": "Adds bushy leaves without any mods. Make trees beautiful again.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "6AXoO5ip",
+          "slug": "betterleaves",
+          "project_type": "resourcepack",
+          "team": "m8Wuq2Lc",
+          "title": "Better Leaves",
+          "description": "Adds bushy leaves without any mods. Make trees beautiful again.",
+          "body": "<img src=\"https://i.imgur.com/ec9QJOB.png\" />\n\n<br>\n<br>\n\n[My Website](https://pandadev.net)\n\n**Works with every other resource pack, just put it on the very top**\n\n***\n\n<img src=\"https://i.imgur.com/2haNUE2.png\" height=\"54px\" />\n\n<br/>\n<br/>\n\nBetter Leaves is a texture pack that adds bushy leaves to the game, but not only to vanilla minecraft, it even supports some mods.\n\n***\n\nCheck out my other projects on [my profile](https://modrinth.com/user/PandaDEV)",
+          "published": "2023-01-18T12:18:51.307424Z",
+          "updated": "2023-06-09T17:28:16.308308Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "16x",
+            "decoration",
+            "simplistic"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/6AXoO5ip/253cc94a54d8982ba9db00f69287a9ba8fb25d35.png",
+          "discord_url": "https://discord.gg/Y7SbYphVw9",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/6AXoO5ip/images/5b5d8b9adf34d58b52a0cfe7962756fc4ee4d744.png",
+              "featured": true,
+              "title": "Better Leaves",
+              "description": "Main image",
+              "created": "2023-01-18T12:20:22.057647Z",
+              "ordering": 1.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "Bff2E1TQ",
+          "project_id": "6AXoO5ip",
+          "author_id": "jeknuwgX",
+          "name": "v1.5",
+          "version_number": "1.5",
+          "changelog": "- updated to 1.20\n- added cherry leaves",
+          "date_published": "2023-06-09T17:28:17.291772Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "bffd7ef4a52e9bb1a93ba723f3dacb7270c64dc9",
+                "sha512": "85d103f59eb0b12397f4fa9ef736f48e17cfee137edcbc667d96af23f2214493573e5c1e372149b63763342f8378689a11199df64d372faa861e13c451b945c5"
+              },
+              "url": "https://cdn.modrinth.com/data/6AXoO5ip/versions/Bff2E1TQ/%C2%A7fBetter%20%C2%A72%C2%A7lLeaves%20%C2%A771.20.zip",
+              "filename": "§fBetter §2§lLeaves §71.20.zip",
+              "primary": true,
+              "size": 103986
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.14",
+            "1.14.1",
+            "1.14.2",
+            "1.14.3",
+            "1.14.4",
+            "1.15",
+            "1.15.1",
+            "1.15.2",
+            "1.16",
+            "1.16.1",
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5",
+            "1.17",
+            "1.17.1",
+            "1.18",
+            "1.18.1",
+            "1.18.2",
+            "1.19",
+            "1.19.1",
+            "1.19.2",
+            "1.19.3",
+            "1.19.4",
+            "1.20"
+          ],
+          "loaders": [
+            "minecraft"
+          ]
+        }
+      },
+      {
+        "name": "Kal's Grimdark Sky Pack",
+        "version": "Grimdark Sky v1.1 [1.12.2]",
+        "optional": true,
+        "file": "Grimdark-Sky-v1-1-03.zip",
+        "type": "resourcepack",
+        "description": "Custom Sky w/ Exoplanets, Chaos Moon & Shooting Stars by Kalamon",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 512996,
+        "curseForgeFileId": 4689158,
+        "curseForgeProject": {
+          "id": 512996,
+          "name": "Kal's Grimdark Sky Pack",
+          "authors": [
+            {
+              "id": 41613639,
+              "name": "Kalam0n",
+              "url": "https://www.curseforge.com/members/41613639-kalam0n?username=kalam0n"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Custom Sky w/ Exoplanets, Chaos Moon & Shooting Stars by Kalamon",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/miscellaneous",
+              "dateModified": "2020-06-30T17:54:39.157Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 405,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/59/635351501101869320.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "16x",
+              "slug": "sixteen-x",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/sixteen-x",
+              "dateModified": "2020-06-30T17:54:39.077Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 393,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/75/635351598555753321.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Medieval",
+              "slug": "medieval",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/medieval",
+              "dateModified": "2020-06-30T17:54:39.137Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 402,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/56/635351500686687873.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 393,
+          "classId": 12,
+          "slug": "grimdark-sky",
+          "isFeatured": false,
+          "dateModified": "2023-08-21T19:29:01.86Z",
+          "dateCreated": "2021-08-06T19:58:41.647Z",
+          "dateReleased": "2023-08-08T18:28:49.267Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/texture-packs/grimdark-sky",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 863623,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/863/623/256/256/638272899147214060.png",
+            "title": "638272899147214060.png",
+            "url": "https://media.forgecdn.net/avatars/863/623/638272899147214060.png",
+            "modId": 512996
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 422001,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/422/1/310/172/javacollection05.png",
+              "title": "Java Collection Explainer",
+              "url": "https://media.forgecdn.net/attachments/422/1/javacollection05.png",
+              "modId": 512996
+            },
+            {
+              "id": 386166,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/386/166/310/172/grimdark-twilight.png",
+              "title": "Twilight",
+              "url": "https://media.forgecdn.net/attachments/386/166/grimdark-twilight.png",
+              "modId": 512996
+            },
+            {
+              "id": 386167,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/386/167/310/172/grimdark-midnight.png",
+              "title": "Midnight",
+              "url": "https://media.forgecdn.net/attachments/386/167/grimdark-midnight.png",
+              "modId": 512996
+            },
+            {
+              "id": 690412,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/690/412/310/172/grimdark-skies-hero23.png",
+              "title": "Grimdark Sky Pack Hero Image",
+              "url": "https://media.forgecdn.net/attachments/690/412/grimdark-skies-hero23.png",
+              "modId": 512996
+            },
+            {
+              "id": 386169,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/386/169/310/172/grimdark-moonrise.png",
+              "title": "Moonrise",
+              "url": "https://media.forgecdn.net/attachments/386/169/grimdark-moonrise.png",
+              "modId": 512996
+            },
+            {
+              "id": 386168,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/386/168/310/172/grimdark-sunrise.png",
+              "title": "Sunrise",
+              "url": "https://media.forgecdn.net/attachments/386/168/grimdark-sunrise.png",
+              "modId": 512996
+            },
+            {
+              "id": 386164,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/386/164/310/172/grimdark-darybreak.png",
+              "title": "Daybreak",
+              "url": "https://media.forgecdn.net/attachments/386/164/grimdark-darybreak.png",
+              "modId": 512996
+            },
+            {
+              "id": 386165,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/386/165/310/172/grimdark-midday.png",
+              "title": "Highnoon",
+              "url": "https://media.forgecdn.net/attachments/386/165/grimdark-midday.png",
+              "modId": 512996
+            }
+          ],
+          "mainFileId": 4688121
+        },
+        "curseForgeFile": {
+          "id": 4689158,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Grimdark Sky v1.1 [1.12.2]",
+          "fileName": "Grimdark-Sky-v1-1-03.zip",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2023-08-08T18:28:49.267Z",
+          "fileLength": 8572616,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 716540710,
+              "name": "pack.png"
+            },
+            {
+              "fingerprint": 1269670826,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1540963645,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "b1dea26764a09bf47004ae6ac0609580d8c08401",
+              "algo": 1
+            },
+            {
+              "value": "b30d54e045c0cf67e325a36f0375c0cc",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000012.0000000001",
+              "gameVersion": "1.12.1",
+              "gameVersionReleaseDate": "2017-08-03T05:00:00Z",
+              "gameVersionName": "1.12.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000012",
+              "gameVersion": "1.12",
+              "gameVersionReleaseDate": "2017-06-07T05:00:00Z",
+              "gameVersionName": "1.12"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000012.0000000002",
+              "gameVersion": "1.12.2",
+              "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+              "gameVersionName": "1.12.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000012",
+              "gameVersion": "1.12",
+              "gameVersionReleaseDate": "2017-02-28T06:00:00Z",
+              "gameVersionName": "1.12-Snapshot"
+            }
+          ],
+          "gameVersions": [
+            "1.12.1",
+            "1.12",
+            "1.12.2",
+            "1.12-Snapshot"
+          ],
+          "fileFingerprint": 2584286955,
+          "modId": 512996
+        }
+      },
+      {
+        "name": "Mahi's Better Sky",
+        "version": "Mahi's Better Sky V1.2.0 (1.20.3)",
+        "optional": true,
+        "file": "Mahi's Better Sky V1.2.0 (1.20.3).zip",
+        "type": "resourcepack",
+        "description": "Mahi's Better Sky - Enhance your Minecraft experience with a better and more realistic sky while preserving the vanilla feel.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 643724,
+        "curseForgeFileId": 4936697,
+        "curseForgeProject": {
+          "id": 643724,
+          "name": "Mahi's Better Sky",
+          "authors": [
+            {
+              "id": 102837664,
+              "name": "TheGamingMahi",
+              "url": "https://www.curseforge.com/members/102837664-thegamingmahi?username=thegamingmahi"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Mahi's Better Sky - Enhance your Minecraft experience with a better and more realistic sky while preserving the vanilla feel.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/miscellaneous",
+              "dateModified": "2020-06-30T17:54:39.157Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 405,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/59/635351501101869320.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "16x",
+              "slug": "sixteen-x",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/sixteen-x",
+              "dateModified": "2020-06-30T17:54:39.077Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 393,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/75/635351598555753321.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Modern",
+              "slug": "modern",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/modern",
+              "dateModified": "2020-06-30T17:54:39.13Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 401,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/55/635351500520222907.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Photo Realistic",
+              "slug": "photo-realistic",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/photo-realistic",
+              "dateModified": "2020-06-30T17:54:39.123Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 400,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/51/635351499583447065.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Traditional",
+              "slug": "traditional",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/traditional",
+              "dateModified": "2020-06-30T17:54:39.14Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 403,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/57/635351500831419880.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 393,
+          "classId": 12,
+          "slug": "mahis-better-sky",
+          "isFeatured": false,
+          "dateModified": "2023-12-08T10:21:00.673Z",
+          "dateCreated": "2022-07-12T14:42:42.753Z",
+          "dateReleased": "2023-12-07T15:20:15.127Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/texture-packs/mahis-better-sky",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 571780,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/571/780/256/256/637932337628093976.png",
+            "title": "637932337628093976.png",
+            "url": "https://media.forgecdn.net/avatars/571/780/637932337628093976.png",
+            "modId": 643724
+          },
+          "allowModDistribution": false,
+          "screenshots": [
+            {
+              "id": 477099,
+              "description": "Screenshot 6",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/99/310/172/2022-07-10_20.png",
+              "title": "Mahi's Better Sky",
+              "url": "https://media.forgecdn.net/attachments/477/99/2022-07-10_20.png",
+              "modId": 643724
+            },
+            {
+              "id": 477095,
+              "description": "Screenshot 3",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/95/310/172/2022-07-10_20.png",
+              "title": "Mahi's Better Sky",
+              "url": "https://media.forgecdn.net/attachments/477/95/2022-07-10_20.png",
+              "modId": 643724
+            },
+            {
+              "id": 732703,
+              "description": "Screenshot 12",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/732/703/310/172/2023-09-19_19.png",
+              "title": "V1.2.0",
+              "url": "https://media.forgecdn.net/attachments/732/703/2023-09-19_19.png",
+              "modId": 643724
+            },
+            {
+              "id": 511070,
+              "description": "Version 1.1.0",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/511/70/310/172/2022-11-02_16.png",
+              "title": "Screenshot 8",
+              "url": "https://media.forgecdn.net/attachments/511/70/2022-11-02_16.png",
+              "modId": 643724
+            },
+            {
+              "id": 477097,
+              "description": "Screenshot 5",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/97/310/172/2022-07-10_20.png",
+              "title": "Mahi's Better Sky",
+              "url": "https://media.forgecdn.net/attachments/477/97/2022-07-10_20.png",
+              "modId": 643724
+            },
+            {
+              "id": 732698,
+              "description": "Screenshot 9",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/732/698/310/172/2023-09-19_19.png",
+              "title": "V1.2.0",
+              "url": "https://media.forgecdn.net/attachments/732/698/2023-09-19_19.png",
+              "modId": 643724
+            },
+            {
+              "id": 732699,
+              "description": "Screenshot 10",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/732/699/310/172/2023-09-19_19.png",
+              "title": "V1.2.0",
+              "url": "https://media.forgecdn.net/attachments/732/699/2023-09-19_19.png",
+              "modId": 643724
+            },
+            {
+              "id": 477093,
+              "description": "Screenshot 1",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/93/310/172/2022-07-10_20.png",
+              "title": "Mahi's Better Sky",
+              "url": "https://media.forgecdn.net/attachments/477/93/2022-07-10_20.png",
+              "modId": 643724
+            },
+            {
+              "id": 477094,
+              "description": "Screenshot 2",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/94/310/172/2022-07-10_20.png",
+              "title": "Mahi's Better Sky",
+              "url": "https://media.forgecdn.net/attachments/477/94/2022-07-10_20.png",
+              "modId": 643724
+            },
+            {
+              "id": 477096,
+              "description": "Screenshot 4",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/96/310/172/2022-07-10_20.png",
+              "title": "Mahi's Better Sky",
+              "url": "https://media.forgecdn.net/attachments/477/96/2022-07-10_20.png",
+              "modId": 643724
+            },
+            {
+              "id": 732701,
+              "description": "Screenshot 11",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/732/701/310/172/2023-09-19_19.png",
+              "title": "V1.2.0",
+              "url": "https://media.forgecdn.net/attachments/732/701/2023-09-19_19.png",
+              "modId": 643724
+            }
+          ],
+          "mainFileId": 4936697
+        },
+        "curseForgeFile": {
+          "id": 4936697,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Mahi's Better Sky V1.2.0 (1.20.3)",
+          "fileName": "Mahi's Better Sky V1.2.0 (1.20.3).zip",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-12-07T15:20:15.127Z",
+          "fileLength": 17902559,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 741661009,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1198372694,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3357159396,
+              "name": "pack.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e08dcfd2973dc0bec287ded5f88423d5e9400a13",
+              "algo": 1
+            },
+            {
+              "value": "49ee714f2d2bba9c5593f6f13e97b657",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-10-05T00:00:00Z",
+              "gameVersionName": "1.20.3-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            }
+          ],
+          "gameVersions": [
+            "1.20.3-Snapshot",
+            "1.20.3"
+          ],
+          "fileFingerprint": 868609755,
+          "modId": 643724
+        }
+      },
+      {
+        "name": "Mahi's Better Sky",
+        "version": "Unknown",
+        "optional": true,
+        "file": "Mahi's+Better+Sky+V1.2.0+(1.20.3).zip",
+        "type": "mods",
+        "description": "Mahi's Better Sky - Enhance your Minecraft experience with a better and more realistic sky while preserving the vanilla feel.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 643724,
+        "curseForgeFileId": 4936697,
+        "curseForgeProject": {
+          "id": 643724,
+          "name": "Mahi's Better Sky",
+          "authors": [
+            {
+              "id": 102837664,
+              "name": "TheGamingMahi",
+              "url": "https://www.curseforge.com/members/102837664-thegamingmahi?username=thegamingmahi"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Mahi's Better Sky - Enhance your Minecraft experience with a better and more realistic sky while preserving the vanilla feel.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/miscellaneous",
+              "dateModified": "2020-06-30T17:54:39.157Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 405,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/59/635351501101869320.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "16x",
+              "slug": "sixteen-x",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/sixteen-x",
+              "dateModified": "2020-06-30T17:54:39.077Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 393,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/75/635351598555753321.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Modern",
+              "slug": "modern",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/modern",
+              "dateModified": "2020-06-30T17:54:39.13Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 401,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/55/635351500520222907.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Photo Realistic",
+              "slug": "photo-realistic",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/photo-realistic",
+              "dateModified": "2020-06-30T17:54:39.123Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 400,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/51/635351499583447065.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Traditional",
+              "slug": "traditional",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/traditional",
+              "dateModified": "2020-06-30T17:54:39.14Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 403,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/57/635351500831419880.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 393,
+          "classId": 12,
+          "slug": "mahis-better-sky",
+          "isFeatured": false,
+          "dateModified": "2023-12-08T10:21:00.673Z",
+          "dateCreated": "2022-07-12T14:42:42.753Z",
+          "dateReleased": "2023-12-07T15:20:15.127Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/texture-packs/mahis-better-sky",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 571780,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/571/780/256/256/637932337628093976.png",
+            "title": "637932337628093976.png",
+            "url": "https://media.forgecdn.net/avatars/571/780/637932337628093976.png",
+            "modId": 643724
+          },
+          "allowModDistribution": false,
+          "screenshots": [
+            {
+              "id": 477099,
+              "description": "Screenshot 6",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/99/310/172/2022-07-10_20.png",
+              "title": "Mahi's Better Sky",
+              "url": "https://media.forgecdn.net/attachments/477/99/2022-07-10_20.png",
+              "modId": 643724
+            },
+            {
+              "id": 477095,
+              "description": "Screenshot 3",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/95/310/172/2022-07-10_20.png",
+              "title": "Mahi's Better Sky",
+              "url": "https://media.forgecdn.net/attachments/477/95/2022-07-10_20.png",
+              "modId": 643724
+            },
+            {
+              "id": 732703,
+              "description": "Screenshot 12",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/732/703/310/172/2023-09-19_19.png",
+              "title": "V1.2.0",
+              "url": "https://media.forgecdn.net/attachments/732/703/2023-09-19_19.png",
+              "modId": 643724
+            },
+            {
+              "id": 511070,
+              "description": "Version 1.1.0",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/511/70/310/172/2022-11-02_16.png",
+              "title": "Screenshot 8",
+              "url": "https://media.forgecdn.net/attachments/511/70/2022-11-02_16.png",
+              "modId": 643724
+            },
+            {
+              "id": 477097,
+              "description": "Screenshot 5",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/97/310/172/2022-07-10_20.png",
+              "title": "Mahi's Better Sky",
+              "url": "https://media.forgecdn.net/attachments/477/97/2022-07-10_20.png",
+              "modId": 643724
+            },
+            {
+              "id": 732698,
+              "description": "Screenshot 9",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/732/698/310/172/2023-09-19_19.png",
+              "title": "V1.2.0",
+              "url": "https://media.forgecdn.net/attachments/732/698/2023-09-19_19.png",
+              "modId": 643724
+            },
+            {
+              "id": 732699,
+              "description": "Screenshot 10",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/732/699/310/172/2023-09-19_19.png",
+              "title": "V1.2.0",
+              "url": "https://media.forgecdn.net/attachments/732/699/2023-09-19_19.png",
+              "modId": 643724
+            },
+            {
+              "id": 477093,
+              "description": "Screenshot 1",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/93/310/172/2022-07-10_20.png",
+              "title": "Mahi's Better Sky",
+              "url": "https://media.forgecdn.net/attachments/477/93/2022-07-10_20.png",
+              "modId": 643724
+            },
+            {
+              "id": 477094,
+              "description": "Screenshot 2",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/94/310/172/2022-07-10_20.png",
+              "title": "Mahi's Better Sky",
+              "url": "https://media.forgecdn.net/attachments/477/94/2022-07-10_20.png",
+              "modId": 643724
+            },
+            {
+              "id": 477096,
+              "description": "Screenshot 4",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/96/310/172/2022-07-10_20.png",
+              "title": "Mahi's Better Sky",
+              "url": "https://media.forgecdn.net/attachments/477/96/2022-07-10_20.png",
+              "modId": 643724
+            },
+            {
+              "id": 732701,
+              "description": "Screenshot 11",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/732/701/310/172/2023-09-19_19.png",
+              "title": "V1.2.0",
+              "url": "https://media.forgecdn.net/attachments/732/701/2023-09-19_19.png",
+              "modId": 643724
+            }
+          ],
+          "mainFileId": 4936697
+        },
+        "curseForgeFile": {
+          "id": 4936697,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Mahi's Better Sky V1.2.0 (1.20.3)",
+          "fileName": "Mahi's Better Sky V1.2.0 (1.20.3).zip",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-12-07T15:20:15.127Z",
+          "fileLength": 17902559,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 741661009,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1198372694,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3357159396,
+              "name": "pack.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e08dcfd2973dc0bec287ded5f88423d5e9400a13",
+              "algo": 1
+            },
+            {
+              "value": "49ee714f2d2bba9c5593f6f13e97b657",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-10-05T00:00:00Z",
+              "gameVersionName": "1.20.3-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            }
+          ],
+          "gameVersions": [
+            "1.20.3-Snapshot",
+            "1.20.3"
+          ],
+          "fileFingerprint": 868609755,
+          "modId": 643724
+        }
+      },
+      {
+        "name": "FramedBlocks",
+        "version": "FramedBlocks-6.8.6.jar",
+        "optional": true,
+        "file": "FramedBlocks-6.8.6.jar",
+        "type": "mods",
+        "description": "Fancy building blocks",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 441647,
+        "curseForgeFileId": 4762544,
+        "curseForgeProject": {
+          "id": 441647,
+          "name": "FramedBlocks",
+          "authors": [
+            {
+              "id": 18882512,
+              "name": "XFactHD",
+              "url": "https://www.curseforge.com/members/18882512-xfacthd?username=xfacthd"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Fancy building blocks",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "framedblocks",
+          "isFeatured": false,
+          "dateModified": "2023-10-11T18:25:16.667Z",
+          "dateCreated": "2021-01-30T17:40:13.77Z",
+          "dateReleased": "2023-10-11T18:20:29.227Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/framedblocks",
+            "issuesUrl": "https://github.com/XFactHD/FramedBlocks/issues",
+            "sourceUrl": "https://github.com/XFactHD/FramedBlocks"
+          },
+          "logo": {
+            "id": 337942,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/337/942/256/256/637476252137998899.png",
+            "title": "637476252137998899.png",
+            "url": "https://media.forgecdn.net/avatars/337/942/637476252137998899.png",
+            "modId": 441647
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4793884
+        },
+        "curseForgeFile": {
+          "id": 4762544,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "FramedBlocks-6.8.6.jar",
+          "fileName": "FramedBlocks-6.8.6.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-09-21T22:40:52.683Z",
+          "fileLength": 2875336,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1026420148,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3416932915,
+              "name": "xfacthd"
+            },
+            {
+              "fingerprint": 3180810269,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 3542466166,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1448642274,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2686545245,
+              "name": "framedblocks.mixin.json"
+            },
+            {
+              "fingerprint": 789975261,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 4021781337,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 408692702,
+              "name": "framedblocks.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "5376aeefe2c736dcae7f3ba6d641580b8f49c4f3",
+              "algo": 1
+            },
+            {
+              "value": "7701dff75f2027ecbdbaccc1e831c75d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 2050459251,
+          "modId": 441647
+        },
+        "modrinthProject": {
+          "id": "wbgfS34j",
+          "slug": "framedblocks",
+          "project_type": "mod",
+          "team": "vyi01qZ6",
+          "title": "FramedBlocks",
+          "description": "Fancy building blocks",
+          "body": "FramedBlocks adds blocks of various shapes that can be made to look like almost any other block in the game.\n\n![FramedBlocks mod content](https://cdn.modrinth.com/data/wbgfS34j/images/34a7553ee6872ae800fc1fbb7eb4f61e6373446c.png)\n\n# Contents\n\n<details>\n<summary>Shape selection (left to right, front to back in image)</summary>\n\n- Framed Cube\n- Framed Slope (can also be placed vertically)\n- Framed Corner Slope (can also be placed vertically)\n- Framed Inner Corner Slope (can also be placed vertically)\n- Framed Prism Corner\n- Framed Inner Prism Corner\n- Framed Threeway Corner\n- Framed Inner Threeway Corner\n- Framed Slab\n- Framed Slab Edge\n- Framed Slab Corner\n- Framed Panel\n- Framed Corner Pillar\n- Framed Stairs\n- Framed Wall\n- Framed Fence\n- Framed Fence Gate\n- Framed Door\n- Framed Iron Door\n- Framed Trapdoor\n- Framed Iron Trapdoor\n- Framed Pressure Plate\n- Framed Stone Pressure Plate\n- Framed Obsidian Pressure Plate\n- Framed Weighted Pressure Plate (Heavy)\n- Framed Weighted Pressure Plate (Light)\n- Framed Ladder\n- Framed Button\n- Framed Stone Button\n- Framed Lever\n- Framed Sign\n- Framed Double Slab\n- Framed Double Panel\n- Framed Double Slope (can also be placed vertically)\n- Framed Torch\n- Framed Soul Torch\n- Framed Redstone Torch\n- Framed Floor Board\n- Framed Lattice\n- Framed Vertical Stairs (interacts with Stairs, Framed Stairs and Framed Half Stairs to create a corner)\n- Framed Double Corner (can also be placed vcertically)\n- Framed Double Prism Corner\n- Framed Double Threeway Corner\n- Framed Chest\n- Framed Bars\n- Framed Pane\n- Framed Rail Slope\n- Framed Flower Pot\n- Framed Pillar (can be placed on all three axis)\n- Framed Half Pillar (can be placed in all six directions)\n- Framed Post (can be placed on all three axis)\n- Framed Collapsible Block\n- Framed Half Stairs\n- Framed Bouncy Cube\n- Framed Secret Storage\n- Framed Redstone Block\n- Framed Prism\n- Framed Sloped Prism\n- Framed Slope Slab (hold sneak key to place upside down)\n- Framed Elevated Slope Slab\n- Framed Double Slope Slab (hold sneak key to place upside down)\n- Framed Inverse Double Slope Slab\n- Framed Elevated Double Slope Slab\n- Framed Flat Slope Slab Corner\n- Framed Flat Inner Slope Slab Corner\n- Framed Flat Elevated Slope Slab Corner\n- Framed Flat Elevated Inner Slope Slab Corner\n- Framed Flat Double Slope Slab Corner\n- Framed Flat Inverse Double Slope Slab Corner\n- Framed Flat Elevated Double Slope Slab Corner\n- Framed Flat Elevated Inner Double Slope Slab Corner\n- Framed Vertical Half Stairs\n- Framed Slope Panel\n- Framed Extended Slope Panel\n- Framed Double Slope Panel\n- Framed Inverse Double Slope Panel\n- Framed Extended Double Slope Panel\n- Framed Flat Slope Panel Corner\n- Framed Flat Inner Slope Panel Corner\n- Framed Flat Extended Slope Panel Corner\n- Framed Flat Extended Inner Slope Panel Corner\n- Framed Flat Double Slope Panel Corner\n- Framed Flat Inverse Double Slope Panel Corner\n- Framed Flat Extended Double Slope Panel Corner\n- Framed Flat Extended Inner Double Slope Panel Corner\n- Framed Double Stairs\n- Framed Vertical Double Stairs\n- Framed Wall Board\n- Framed Pyramid\n- Framed Pyramid Slab\n- Large Framed Button\n- Large Framed Stone Button\n- Framed Horizontal Pane\n- Framed Glowing Cube (glows in the dark without emitting light)\n- Framed Target (Target markings can be dyed)\n- Framed Gate\n- Framed Iron Gate\n- Framed Item Frame\n- Framed Glow Item Frame\n- Framed Powered Rail Slope\n- Framed Detector Rail Slope\n- Framed Activator Rail Slope\n- Framed Inner Prism\n- Framed Double Prism\n- Framed Inner Sloped Prism\n- Framed Double Sloped Prism\n- Framed One-Way Window\n- Framed Fancy Rail\n- Framed Fancy Powered Rail\n- Framed Fancy Detector Rail\n- Framed Fancy Activator Rail\n- Framed Fancy Rail Slope\n- Framed Fancy Powered Rail Slope\n- Framed Fancy Detector Rail Slope\n- Framed Fancy Activator Rail Slope\n- Framed Half Slope\n- Framed Divided Slope\n- Framed Double Half Slope\n- Framed Sloped Stairs\n- Framed Vertical Sloped Stairs\n- Framed Divided Slab\n- Framed Divided Panel (Horizontal)\n- Framed Divided Panel (Vertical)\n- Framed Mini Cube\n- Framed Stacked Slope Slab\n- Framed Flat Stacked Slope Slab Corner\n- Framed Flat Stacked Inner Slope Slab Corner\n- Framed Stacked Slope Panel\n- Framed Flat Stacked Slope Panel Corner\n- Framed Flat Stacked Inner Slope Panel Corner\n- Framed Divided Stairs\n- Framed Vertical Divided Stairs\n\n</details>\n\n# Usage\n\n### Basic usage\n\n- Right click the block with almost any solid block to make it look alike.\n- Right click the block with a fluid container to make it look like the fluid in the container (1.19+).\n- Right click the block with Glowstone Dust to make it produce light.\n- Right click the block with a Framed Hammer to remove the camo.\n- Right click the block with an empty fluid container to remove a fluid camo (1.19+).\n\n### Special behaviors\n\n- Framed Prism, Inner Prism and Double Prism Corners automatically activate a texture offset depending on their position when placed. This fixes the issue of prism corners not fitting together properly when building a larger surface out of these blocks. If this behaviour is not desired, you can toggle the offset state by left clicking the block with the Framed Hammer.\n\n- The Framed Wrench (and any other item in the \"forge:tools/wrench\" tag) can be used to rotate the Framed Block. On most blocks, the rotation behaviour is dependent on the face that was clicked.\n\n- The Framed Screwdriver can be used to cycle through different states of the camo block.\n\n- The Framed Blueprint allows copying Framed Blocks including their camo and glowing state. The rotation of the Framed Block itself is not copied.\n\n- The Framed Collapsible Block can be modified to create arbitrary slopes by changing the height of the four corners of a single block face with the Framed Hammer. Left click the corner on the face you want to change to move the face inward and left click the corner while sneaking to move the face outward. This modification can only happen on a single face at once and only within the bounds of a full block. If the four corners are displaced in a way that they can't form a plane, the visual result might be unexpected. This is a result of the inner workings of OpenGL and not a bug in the mod! The direction of the line separating the two triangles can be toggled by left-clicking the block with a Framed Wrench\n\n- When activated in the server config, most blocks can be right-clicked with a Phantom Membrane (can be changed in the server config) to make them intangible, allowing you to move through them. To remove this, right click the block with a Framed Screwdriver while crouching.\n\n- The latch of the Framed Chest can be switched between three modes by left clicking the chest with a Framed Hammer:\n  - Default chest latch (default state)\n  - Camo-textured latch\n  - No latch\n\n- The Framed Key allows locking certain Framed Blocks in their current shape to suppress neighbor updates. This allows placing blocks in configurations that would not be possible with the desired neighbors (i.e. placing Framed Stairs in the corner shape without keeping the necessary neighbors to force that shape).\n\n- The Framed Pressure Plates (all variants) can be switched between waterloggable and non-waterloggable by left-clicking them with a Framed Hammer. Their default state is non-waterloggable to match vanilla behaviour.\n\n### Important notes\n\nMake sure to enable the `experimentalForgeLightPipelineEnabled` setting in the `forge-client.toml` config file to get proper lighting on all shapes.\n\n# Configuration\n\nFramedBlocks offers a few configuration options to tweak certain behaviour. Listed below are the main ones relevant to players\n\n<details>\n<summary>Common</summary>\n\n- `fireproofBlocks`: Makes Framed Blocks completely fireproof by disabling dynamic flammability (default: false)\n\n</details>\n\n<details>\n<summary>Client</summary>\n\n- `showGhostBlocks`: Shows a half transparent placement aid when a Framed Block is held (default: true)\n- `fancyHitboxes`: Draw custom hitboxes on blocks like the slope instead of their actual stair step collision box (default: true)\n- `detailedCulling`: Hides faces between Framed Blocks if applicable even if the face doesn't fill the whole block face (default: true)\n- `conTexMode`: Configures to what degree connected textures are supported on framed blocks (default: `FULL_FACE`)\n  - `NONE`: Disables connected textures support\n  - `FULL_FACE`: Enables connected textures on full faces located at the outer bounds of the block volume\n  - `FULL_EDGE`: Enables connected textures as above and on edges spanning the full block width on non-full faces located at the outer bounds of the block volume\n  - `DETAILED`: Enables connected textures support as above and on most faces next to other framed blocks\n- `overlay` category: Configure to which degree overlays for certain special interactions are shown (default: `DETAILED`)\n  - `HIDDEN`: Hides the overlay\n  - `ICON`: Only shows the icon of the overlay next to the crosshair\n  - `DETAILED`: Shows the icon and a description\n\n</details>\n\n<details>\n<summary>Server</summary>\n\n- `allowBlockEntities`: Whether blocks with BlockEntities can be placed in Framed Blocks (default: false)\n  - Note: placing BlockEntities in Framed Blocks may in rare cases lead to crashes. To fix a crashing block, either disable this config setting or add the offending block to the blacklist tag, the camo(s) conflicting with either change will then be removed when the block is loaded\n- `enableIntangibleFeature`: Enables the intangibility feature. Disabling this also prevents moving through blocks that are already marked as intangible (default: false)\n- `intangibleMarkerItem`: The item to use for making Framed Blocks intangible. The value must be a valid item registry name (default: `minecraft:phantom_membrane`)\n- `oneWayWindowOwnable`: Whether changing the see-through face is limited to the player who placed the One-Way Window (default: true)\n- `consumeCamoItem`: Whether applying a camo consumes the item and removing it drops the item again (default: true\n\n</details>\n\n# Datapack Features\n\n- If a block cannot be placed in a Framed Block and you think that it should be, you can add the block to the `framedblocks:frameable` tag via a datapack. An example can be found [here](https://github.com/XFactHD/FramedBlocks/blob/1.16.x/src/generated/resources/data/framedblocks/tags/blocks/frameable.json).\n- If a block can be placed in a Framed Block and you think that it shouldn't be, you can add the block to the `framedblocks:blacklisted` tag via a datapack. An example can be found [here](https://github.com/XFactHD/FramedBlocks/blob/1.16.x/src/generated/resources/data/framedblocks/tags/blocks/blacklisted.json).\n- All blocks in the `framedblocks:camo_sustain_plant` tag allow plants placeable on them to be placed on the respective solid faces of a framed block holding this block as camo. See the [builtin tag](https://github.com/XFactHD/FramedBlocks/blob/1.19.x/src/generated/resources/data/framedblocks/tags/blocks/camo_sustain_plant.json) for the default values.\n\n# Known issues\n\n- Mitigations for crashes with OptiFine break the rendering of the Framed Chest lid. When OptiFine is installed, the lid will not move when opening the chest",
+          "published": "2023-12-18T23:35:58.275548Z",
+          "updated": "2023-12-18T23:44:08.245061Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/wbgfS34j/9e1c5293570d9822e51b99a385e25835f2ee6b1d.png",
+          "issues_url": "https://github.com/XFactHD/FramedBlocks/issues",
+          "source_url": "https://github.com/XFactHD/FramedBlocks",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/wbgfS34j/images/34a7553ee6872ae800fc1fbb7eb4f61e6373446c.png",
+              "featured": true,
+              "title": "FramedBlocks Showcase",
+              "created": "2023-12-18T23:51:45.645323Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "6MJCf25K",
+          "project_id": "wbgfS34j",
+          "author_id": "u5G4xIK5",
+          "name": "FramedBlocks 6.8.6",
+          "version_number": "6.8.6",
+          "changelog": "",
+          "date_published": "2023-12-18T23:43:26.461717Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "5376aeefe2c736dcae7f3ba6d641580b8f49c4f3",
+                "sha512": "0fb2ee16cd1c672f5f8d8281021c750b0d25d10435098d8d6b2a6fe0b9ca0061e019e147d04faf0d2e6407b3d401d9017d480a5fef439b8799aee9e440cf4ed4"
+              },
+              "url": "https://cdn.modrinth.com/data/wbgfS34j/versions/6MJCf25K/FramedBlocks-6.8.6.jar",
+              "filename": "FramedBlocks-6.8.6.jar",
+              "primary": true,
+              "size": 2875336
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.19.2"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Copper Drops",
+        "version": "Copper Drops 1.1 - 1.19-1.20+",
+        "optional": true,
+        "file": "CopperDrops-1.1.jar",
+        "type": "mods",
+        "description": "Decreases Copper Ore's drops to balance gameplay.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 599111,
+        "curseForgeFileId": 4889063,
+        "curseForgeProject": {
+          "id": 599111,
+          "name": "Copper Drops",
+          "authors": [
+            {
+              "id": 7778398,
+              "name": "brnbrd",
+              "url": "https://www.curseforge.com/members/7778398-brdbrn?username=brdbrn"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Decreases Copper Ore's drops to balance gameplay.",
+          "categories": [
+            {
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 408,
+          "classId": 6,
+          "slug": "copper-drops",
+          "isFeatured": false,
+          "dateModified": "2023-11-22T20:55:47.197Z",
+          "dateCreated": "2022-03-26T07:15:41.373Z",
+          "dateReleased": "2023-11-22T02:22:57.06Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/copper-drops",
+            "issuesUrl": "https://github.com/brdle/CopperDrops/issues",
+            "sourceUrl": "https://github.com/brdle/CopperDrops"
+          },
+          "logo": {
+            "id": 516686,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/516/686/256/256/637838757414260689.png",
+            "title": "637838757414260689.png",
+            "url": "https://media.forgecdn.net/avatars/516/686/637838757414260689.png",
+            "modId": 599111
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4889063
+        },
+        "curseForgeFile": {
+          "id": 4889063,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Copper Drops 1.1 - 1.19-1.20+",
+          "fileName": "CopperDrops-1.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-11-22T02:22:57.06Z",
+          "fileLength": 16645,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 659011,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 659011,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 289647,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 635042,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 635042,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 289647,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 635042,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 659011,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 567666,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 567666,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 567666,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 289647,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 383067384,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1138928484,
+              "name": "copperdrops.png"
+            },
+            {
+              "fingerprint": 3273068298,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2197399762,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d8fd6758d9472c2e0a8b2d095b0dfd8e2ac38aa6",
+              "algo": 1
+            },
+            {
+              "value": "a15746fba602a2d7bef79580e9f654e8",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
+              "gameVersionName": "1.19.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
+              "gameVersionName": "1.19.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "1.19.3",
+            "1.20.2",
+            "1.19.4",
+            "Client",
+            "1.19.2",
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "1.19.1",
+            "Server",
+            "1.19"
+          ],
+          "fileFingerprint": 3876511477,
+          "modId": 599111
+        }
+      },
+      {
+        "name": "Copperative",
+        "version": "Copperative 1.19.2--1.1.0.jar",
+        "optional": true,
+        "file": "Copperative 1.19.2--1.1.0.jar",
+        "type": "mods",
+        "description": "Rightfully uniting copper and redstone components as one and expanding on copper as a whole. ",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 867868,
+        "curseForgeFileId": 4685243,
+        "curseForgeProject": {
+          "id": 867868,
+          "name": "Copperative",
+          "authors": [
+            {
+              "id": 101860241,
+              "name": "agentmhkskg",
+              "url": "https://www.curseforge.com/members/101860241-agentmhkskg?username=agentmhkskg"
+            },
+            {
+              "id": 13652852,
+              "name": "possible_triangle",
+              "url": "https://www.curseforge.com/members/13652852-possible_triangle?username=possible_triangle"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Rightfully uniting copper and redstone components as one and expanding on copper as a whole. ",
+          "categories": [
+            {
+              "name": "Redstone",
+              "slug": "redstone",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/redstone",
+              "dateModified": "2016-01-19T22:21:51.64Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4558,
+              "iconUrl": "https://media.forgecdn.net/avatars/32/937/635888173116238506.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 4558,
+          "classId": 6,
+          "slug": "copperative",
+          "isFeatured": false,
+          "dateModified": "2023-08-10T08:08:25.87Z",
+          "dateCreated": "2023-05-30T14:45:52.403Z",
+          "dateReleased": "2023-08-06T13:32:56.91Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/copperative",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Xaidee/coopperative/issues",
+            "sourceUrl": "https://github.com/Xaidee/coopperative"
+          },
+          "logo": {
+            "id": 825057,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/825/57/256/256/638210547524501117.png",
+            "title": "638210547524501117.png",
+            "url": "https://media.forgecdn.net/avatars/825/57/638210547524501117.png",
+            "modId": 867868
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 701826,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/701/826/310/172/coopperative-showcase1.png",
+              "title": "Blocks laid out",
+              "url": "https://media.forgecdn.net/attachments/701/826/coopperative-showcase1.png",
+              "modId": 867868
+            },
+            {
+              "id": 701827,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/701/827/310/172/2023-07-18_22.png",
+              "title": "1.20 update",
+              "url": "https://media.forgecdn.net/attachments/701/827/2023-07-18_22.png",
+              "modId": 867868
+            },
+            {
+              "id": 701831,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/701/831/310/172/copper2.png",
+              "title": "Some nice builds",
+              "url": "https://media.forgecdn.net/attachments/701/831/copper2.png",
+              "modId": 867868
+            }
+          ],
+          "mainFileId": 4685249
+        },
+        "curseForgeFile": {
+          "id": 4685243,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Copperative 1.19.2--1.1.0.jar",
+          "fileName": "Copperative 1.19.2--1.1.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-08-06T13:30:50.493Z",
+          "fileLength": 821053,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 412082,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 499980,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 243121,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 769203,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2190525783,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 916061485,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 2039648521,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 990329814,
+              "name": "copperative.mixins.json"
+            },
+            {
+              "fingerprint": 4050531879,
+              "name": "copperative.refmap.json"
+            },
+            {
+              "fingerprint": 4249886467,
+              "name": "data"
+            },
+            {
+              "fingerprint": 975976307,
+              "name": "galena"
+            },
+            {
+              "fingerprint": 3477991603,
+              "name": "galenacapes.forge.mixins.json"
+            },
+            {
+              "fingerprint": 1604532590,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1308598837,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "22aeefd38542a175bfc3318be67f7bfb12ed8714",
+              "algo": 1
+            },
+            {
+              "value": "b4e215f0330afb0c1f76972c0591a67a",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 3776607078,
+          "modId": 867868
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1703434580660,
-    "numPlays": 82,
+    "lastPlayed": 1703507659067,
+    "numPlays": 93,
     "lastExportName": "MC with Faint",
     "lastExportVersion": "1.19.2",
     "lastExportAuthor": "Lumintorious",
